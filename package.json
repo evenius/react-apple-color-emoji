@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "files": [
-    "png/*.png",
+    "png/160/*.png",
     "emojis.d.ts",
     "emojis.js",
     "index.d.ts",
@@ -12,11 +12,11 @@
   ],
   "scripts": {
     "build:types": "ts-node ./script/buildTypes.ts",
-    "build:b": "tsc",
     "build": "tsc && mv dist/* .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "type": "module",
+  "author": "eveniusgill<mrjonathangill@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@swc/core": "^1.3.89",
