@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "inlineSourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "lib": ["ESNext", "dom"],
+    "target": "ES2021",
+    "declaration": true,
+    "rootDir": "./src",
+    "baseUrl": "./"
+  },
+  "include": ["src"]
+}

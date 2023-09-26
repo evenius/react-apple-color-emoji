@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "inlineSourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "types": [],
+    "lib": ["ESNext", "dom"],
+    "target": "ES2021",
+    "declaration": true,
+  },
+  "include": ["script"]
+}
