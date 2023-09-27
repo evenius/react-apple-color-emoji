@@ -1,15 +1,21 @@
 {
   "compilerOptions": {
-    "inlineSourceMap": true,
+    "outDir": "./dist",
+    "sourceMap": false,
     "noImplicitAny": true,
     "strictNullChecks": true,
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "resolveJsonModule": true,
-    "types": [],
+    "esModuleInterop": true,
+    "jsx": "react",
     "lib": ["ESNext", "dom"],
     "target": "ES2021",
     "declaration": true,
+    "rootDir": "./script",
+    "baseUrl": "./",
+    "types": ["node", "types.d.ts"],
+    "typeRoots": ["node_modules/@types", "src"]
   },
   "include": ["script"]
 }

@@ -5,14 +5,12 @@
   "main": "index.js",
   "files": [
     "png/160/*.png",
-    "emojis.d.ts",
-    "emojis.js",
-    "index.d.ts",
-    "index.js"
+    "/*.js",
+    "/*.d.ts"
   ],
   "scripts": {
-    "build:types": "ts-node ./script/buildTypes.ts",
-    "build": "tsc && mv dist/* .",
+    "build:types": "rm src/icons/*.ts 2> /dev/null; ts-node ./script/buildTypes",
+    "build": "tsc && rm -rf icons && mv dist/* .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
@@ -22,11 +20,12 @@
     "@swc/core": "^1.3.89",
     "@swc/helpers": "^0.5.2",
     "@types/node": "^20.7.0",
+    "emojilib": "^3.0.10",
     "ts-node": "^10.9.1",
-    "typescript": "^5.2.2",
-    "emojilib": "^3.0.10"
+    "typescript": "^5.2.2"
   },
   "dependencies": {
+    "@emotion/styled": "^11.11.0",
     "react": "^18.2.0"
   }
 }

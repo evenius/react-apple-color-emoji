@@ -1,6 +1,8 @@
 node_modules/
+/icons
 dist
 /*.js
 /*.ts
 /*.d.ts
 package-lock.json
+icons
