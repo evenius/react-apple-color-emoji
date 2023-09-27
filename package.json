@@ -1,10 +1,11 @@
 {
   "name": "react-apple-color-emoji",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "files": [
     "png/160/*.png",
+    "/icons",
     "/*.js",
     "/*.d.ts"
   ],
