@@ -4,7 +4,7 @@ import { join, resolve } from 'path';
 
 
 const emojiList = Object.keys(lib) as (keyof typeof lib)[]
-const utf16FromString = (emoji: string) => emojiList[0].codePointAt(0)?.toString(16);
+const utf16FromString = (emoji: string) => emoji.codePointAt(0)?.toString(16);
 
 const specialCharPattern = ['_',' ', '\\-'].join('');
 
@@ -13,7 +13,6 @@ const endingSpecialChar = new RegExp(`[${specialCharPattern}]+$`)
 
 const anySpecialChar = new RegExp(`[${specialCharPattern}]+`);
 const undefinedChars = new RegExp(`[^A-z0-9${specialCharPattern}]+`);
-                            //    /[^A-z0-9_ \-]+/g
 
 function ucFirst(str: string) {
   return str.slice(0, 1).toUpperCase() + str.slice(1);
@@ -59,7 +58,7 @@ emojiList.forEach(emoji => {
   const aliasEmojiTypeName = `Emoji${normalisedAlias}`;
   const varName = `em${normalisedAlias}`;
   
-
+  console.log(utf16);
   emojiTypeUnion.push(aliasEmojiTypeName);
   const aliasEmojiType = `export type ${aliasEmojiTypeName} = ${aliases.map(alias => `"${alias}"`).join(' | ')};`
   const aliasEmojiName = `export { default as em${normalisedAlias} } from './icons/em${normalisedAlias}.js';`
