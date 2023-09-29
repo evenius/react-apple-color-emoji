@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f643.png";
 
 export const icon = png;
 export const name = "UpsideDownFace";
-export const aliases = ["upside_down_face","face","flipped","silly","smile"];
+export const aliases = ["upside-down face","upside_down_face","face","flipped","silly","smile"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f643";

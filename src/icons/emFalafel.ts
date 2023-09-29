@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9c6.png";
 
 export const icon = png;
 export const name = "Falafel";
-export const aliases = ["falafel","food","mediterranean"];
+export const aliases = ["falafel","falafel","food","mediterranean"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9c6";

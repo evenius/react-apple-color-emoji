@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f99c.png";
 
 export const icon = png;
 export const name = "Parrot";
-export const aliases = ["parrot","animal","nature","bird","pirate","talk"];
+export const aliases = ["parrot","parrot","animal","nature","bird","pirate","talk"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f99c";

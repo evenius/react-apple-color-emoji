@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f42c.png";
 
 export const icon = png;
 export const name = "Dolphin";
-export const aliases = ["dolphin","animal","nature","fish","sea","ocean","flipper","fins","beach"];
+export const aliases = ["dolphin","dolphin","animal","nature","fish","sea","ocean","flipper","fins","beach"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f42c";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u25c0.png";
 
 export const icon = png;
 export const name = "ReverseButton";
-export const aliases = ["reverse_button","blue-square","left","direction"];
+export const aliases = ["reverse button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u25c0";

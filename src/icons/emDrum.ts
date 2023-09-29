@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f941.png";
 
 export const icon = png;
 export const name = "Drum";
-export const aliases = ["drum","music","instrument","drumsticks","snare"];
+export const aliases = ["drum","drum","music","instrument","drumsticks","snare"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f941";

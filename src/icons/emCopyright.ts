@@ -5,7 +5,7 @@ import png from "../png/160/emoji_ua9.png";
 
 export const icon = png;
 export const name = "Copyright";
-export const aliases = ["copyright","ip","license","circle","law","legal"];
+export const aliases = ["copyright"];
 export const width = 160;
 export const height = 160;
 export const unicode = "ua9";

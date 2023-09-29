@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u3297.png";
 
 export const icon = png;
 export const name = "JapaneseCongratulationsButton";
-export const aliases = ["japanese_congratulations_button","chinese","kanji","japanese","red-circle"];
+export const aliases = ["Japanese “congratulations” button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u3297";

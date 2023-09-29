@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f991.png";
 
 export const icon = png;
 export const name = "Squid";
-export const aliases = ["squid","animal","nature","ocean","sea"];
+export const aliases = ["squid","squid","animal","nature","ocean","sea"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f991";

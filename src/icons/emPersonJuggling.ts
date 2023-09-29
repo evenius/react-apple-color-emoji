@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f939.png";
 
 export const icon = png;
 export const name = "PersonJuggling";
-export const aliases = ["person_juggling","performance","balance"];
+export const aliases = ["person juggling","person_juggling","performance","balance"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f939";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f590.png";
 
 export const icon = png;
 export const name = "HandWithFingersSplayed";
-export const aliases = ["hand_with_fingers_splayed","hand","fingers","palm"];
+export const aliases = ["hand with fingers splayed"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f590";

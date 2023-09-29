@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fae0.png";
 
 export const icon = png;
 export const name = "MeltingFace";
-export const aliases = ["melting face","hot","heat"];
+export const aliases = ["melting face","melting face","hot","heat"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fae0";

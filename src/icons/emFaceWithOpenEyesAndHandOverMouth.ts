@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fae2.png";
 
 export const icon = png;
 export const name = "FaceWithOpenEyesAndHandOverMouth";
-export const aliases = ["face with open eyes and hand over mouth","silence","secret","shock","surprise"];
+export const aliases = ["face with open eyes and hand over mouth","face with open eyes and hand over mouth","silence","secret","shock","surprise"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fae2";

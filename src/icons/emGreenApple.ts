@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f34f.png";
 
 export const icon = png;
 export const name = "GreenApple";
-export const aliases = ["green_apple","fruit","nature"];
+export const aliases = ["green apple","green_apple","fruit","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f34f";

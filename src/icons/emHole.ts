@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f573.png";
 
 export const icon = png;
 export const name = "Hole";
-export const aliases = ["hole","embarrassing"];
+export const aliases = ["hole"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f573";

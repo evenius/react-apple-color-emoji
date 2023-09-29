@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23f2.png";
 
 export const icon = png;
 export const name = "TimerClock";
-export const aliases = ["timer_clock","alarm"];
+export const aliases = ["timer clock"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23f2";

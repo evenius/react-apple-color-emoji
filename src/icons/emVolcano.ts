@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f30b.png";
 
 export const icon = png;
 export const name = "Volcano";
-export const aliases = ["volcano","photo","nature","disaster"];
+export const aliases = ["volcano","volcano","photo","nature","disaster"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f30b";

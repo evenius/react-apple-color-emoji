@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a9.png";
 
 export const icon = png;
 export const name = "PileOfPoo";
-export const aliases = ["pile_of_poo","hankey","shitface","fail","turd","shit"];
+export const aliases = ["pile of poo","pile_of_poo","hankey","shitface","fail","turd","shit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a9";

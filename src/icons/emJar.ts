@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fad9.png";
 
 export const icon = png;
 export const name = "Jar";
-export const aliases = ["jar","container","sauce"];
+export const aliases = ["jar","jar","container","sauce"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fad9";

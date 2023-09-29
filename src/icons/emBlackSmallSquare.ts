@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u25aa.png";
 
 export const icon = png;
 export const name = "BlackSmallSquare";
-export const aliases = ["black_small_square","shape","icon"];
+export const aliases = ["black small square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u25aa";

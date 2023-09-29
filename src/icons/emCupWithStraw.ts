@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f964.png";
 
 export const icon = png;
 export const name = "CupWithStraw";
-export const aliases = ["cup_with_straw","drink","soda"];
+export const aliases = ["cup with straw","cup_with_straw","drink","soda"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f964";

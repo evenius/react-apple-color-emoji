@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2699.png";
 
 export const icon = png;
 export const name = "Gear";
-export const aliases = ["gear","cog"];
+export const aliases = ["gear"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2699";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26f1.png";
 
 export const icon = png;
 export const name = "UmbrellaOnGround";
-export const aliases = ["umbrella_on_ground","weather","summer"];
+export const aliases = ["umbrella on ground"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26f1";

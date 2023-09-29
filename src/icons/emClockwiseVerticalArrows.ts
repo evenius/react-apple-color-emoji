@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f503.png";
 
 export const icon = png;
 export const name = "ClockwiseVerticalArrows";
-export const aliases = ["clockwise_vertical_arrows","sync","cycle","round","repeat"];
+export const aliases = ["clockwise vertical arrows","clockwise_vertical_arrows","sync","cycle","round","repeat"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f503";

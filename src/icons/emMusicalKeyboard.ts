@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3b9.png";
 
 export const icon = png;
 export const name = "MusicalKeyboard";
-export const aliases = ["musical_keyboard","piano","instrument","compose"];
+export const aliases = ["musical keyboard","musical_keyboard","piano","instrument","compose"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3b9";

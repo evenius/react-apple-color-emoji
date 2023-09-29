@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f98c.png";
 
 export const icon = png;
 export const name = "Deer";
-export const aliases = ["deer","animal","nature","horns","venison"];
+export const aliases = ["deer","deer","animal","nature","horns","venison"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f98c";

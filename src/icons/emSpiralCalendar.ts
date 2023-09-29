@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5d3.png";
 
 export const icon = png;
 export const name = "SpiralCalendar";
-export const aliases = ["spiral_calendar","date","schedule","planning"];
+export const aliases = ["spiral calendar"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5d3";

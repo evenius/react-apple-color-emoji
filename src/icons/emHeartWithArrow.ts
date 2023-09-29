@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f498.png";
 
 export const icon = png;
 export const name = "HeartWithArrow";
-export const aliases = ["heart_with_arrow","love","like","heart","affection","valentines"];
+export const aliases = ["heart with arrow","heart_with_arrow","love","like","heart","affection","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f498";

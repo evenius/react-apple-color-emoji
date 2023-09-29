@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f47e.png";
 
 export const icon = png;
 export const name = "AlienMonster";
-export const aliases = ["alien_monster","game","arcade","play"];
+export const aliases = ["alien monster","alien_monster","game","arcade","play"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f47e";

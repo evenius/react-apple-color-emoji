@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f998.png";
 
 export const icon = png;
 export const name = "Kangaroo";
-export const aliases = ["kangaroo","animal","nature","australia","joey","hop","marsupial"];
+export const aliases = ["kangaroo","kangaroo","animal","nature","australia","joey","hop","marsupial"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f998";

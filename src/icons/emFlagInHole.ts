@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26f3.png";
 
 export const icon = png;
 export const name = "FlagInHole";
-export const aliases = ["flag_in_hole","sports","business","flag","hole","summer"];
+export const aliases = ["flag in hole","flag_in_hole","sports","business","flag","hole","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26f3";

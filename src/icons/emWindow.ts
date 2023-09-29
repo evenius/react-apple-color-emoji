@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa9f.png";
 
 export const icon = png;
 export const name = "Window";
-export const aliases = ["window","scenery"];
+export const aliases = ["window","window","scenery"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa9f";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f234.png";
 
 export const icon = png;
 export const name = "JapanesePassingGradeButton";
-export const aliases = ["japanese_passing_grade_button","japanese","chinese","join","kanji","red-square"];
+export const aliases = ["Japanese “passing grade” button","japanese_passing_grade_button","japanese","chinese","join","kanji","red-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f234";

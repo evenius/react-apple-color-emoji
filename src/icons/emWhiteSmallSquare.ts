@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u25ab.png";
 
 export const icon = png;
 export const name = "WhiteSmallSquare";
-export const aliases = ["white_small_square","shape","icon"];
+export const aliases = ["white small square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u25ab";

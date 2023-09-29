@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f33d.png";
 
 export const icon = png;
 export const name = "EarOfCorn";
-export const aliases = ["ear_of_corn","food","vegetable","plant"];
+export const aliases = ["ear of corn","ear_of_corn","food","vegetable","plant"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f33d";

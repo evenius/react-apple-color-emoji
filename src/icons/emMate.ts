@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9c9.png";
 
 export const icon = png;
 export const name = "Mate";
-export const aliases = ["mate","drink","tea","beverage"];
+export const aliases = ["mate","mate","drink","tea","beverage"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9c9";

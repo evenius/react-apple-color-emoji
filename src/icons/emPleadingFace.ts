@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f97a.png";
 
 export const icon = png;
 export const name = "PleadingFace";
-export const aliases = ["pleading_face","face","begging","mercy","cry","tears","sad","grievance"];
+export const aliases = ["pleading face","pleading_face","face","begging","mercy","cry","tears","sad","grievance"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f97a";

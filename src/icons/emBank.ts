@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3e6.png";
 
 export const icon = png;
 export const name = "Bank";
-export const aliases = ["bank","building","money","sales","cash","business","enterprise"];
+export const aliases = ["bank","bank","building","money","sales","cash","business","enterprise"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3e6";

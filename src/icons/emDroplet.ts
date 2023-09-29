@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a7.png";
 
 export const icon = png;
 export const name = "Droplet";
-export const aliases = ["droplet","water","drip","faucet","spring"];
+export const aliases = ["droplet","droplet","water","drip","faucet","spring"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a7";

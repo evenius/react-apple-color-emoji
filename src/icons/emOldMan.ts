@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f474.png";
 
 export const icon = png;
 export const name = "OldMan";
-export const aliases = ["old_man","human","male","men","old","elder","senior"];
+export const aliases = ["old man","old_man","human","male","men","old","elder","senior"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f474";

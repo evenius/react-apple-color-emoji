@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23f8.png";
 
 export const icon = png;
 export const name = "PauseButton";
-export const aliases = ["pause_button","pause","blue-square"];
+export const aliases = ["pause button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23f8";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u24c2.png";
 
 export const icon = png;
 export const name = "CircledM";
-export const aliases = ["circled_m","alphabet","blue-circle","letter"];
+export const aliases = ["circled M"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u24c2";

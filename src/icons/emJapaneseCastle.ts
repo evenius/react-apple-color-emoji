@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3ef.png";
 
 export const icon = png;
 export const name = "JapaneseCastle";
-export const aliases = ["japanese_castle","photo","building"];
+export const aliases = ["Japanese castle","japanese_castle","photo","building"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3ef";

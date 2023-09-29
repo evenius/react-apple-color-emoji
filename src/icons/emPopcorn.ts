@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f37f.png";
 
 export const icon = png;
 export const name = "Popcorn";
-export const aliases = ["popcorn","food","movie theater","films","snack","drama"];
+export const aliases = ["popcorn","popcorn","food","movie theater","films","snack","drama"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f37f";

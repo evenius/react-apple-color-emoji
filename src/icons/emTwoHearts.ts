@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f495.png";
 
 export const icon = png;
 export const name = "TwoHearts";
-export const aliases = ["two_hearts","love","like","affection","valentines","heart"];
+export const aliases = ["two hearts","two_hearts","love","like","affection","valentines","heart"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f495";

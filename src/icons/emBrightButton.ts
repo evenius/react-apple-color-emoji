@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f506.png";
 
 export const icon = png;
 export const name = "BrightButton";
-export const aliases = ["bright_button","sun","light"];
+export const aliases = ["bright button","bright_button","sun","light"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f506";

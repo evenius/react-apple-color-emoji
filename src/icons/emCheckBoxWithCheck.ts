@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2611.png";
 
 export const icon = png;
 export const name = "CheckBoxWithCheck";
-export const aliases = ["check_box_with_check","ok","agree","confirm","black-square","vote","election","yes","tick"];
+export const aliases = ["check box with check"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2611";

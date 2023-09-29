@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f625.png";
 
 export const icon = png;
 export const name = "SadButRelievedFace";
-export const aliases = ["sad_but_relieved_face","face","phew","sweat","nervous"];
+export const aliases = ["sad but relieved face","sad_but_relieved_face","face","phew","sweat","nervous"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f625";

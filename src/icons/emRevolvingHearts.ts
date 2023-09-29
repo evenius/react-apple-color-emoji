@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f49e.png";
 
 export const icon = png;
 export const name = "RevolvingHearts";
-export const aliases = ["revolving_hearts","love","like","affection","valentines"];
+export const aliases = ["revolving hearts","revolving_hearts","love","like","affection","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f49e";

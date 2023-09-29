@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f38e.png";
 
 export const icon = png;
 export const name = "JapaneseDolls";
-export const aliases = ["japanese_dolls","japanese","toy","kimono"];
+export const aliases = ["Japanese dolls","japanese_dolls","japanese","toy","kimono"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f38e";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f491.png";
 
 export const icon = png;
 export const name = "CoupleWithHeart";
-export const aliases = ["couple_with_heart","pair","love","like","affection","human","dating","valentines","marriage"];
+export const aliases = ["couple with heart","couple_with_heart","pair","love","like","affection","human","dating","valentines","marriage"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f491";

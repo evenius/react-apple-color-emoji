@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6f0.png";
 
 export const icon = png;
 export const name = "Satellite";
-export const aliases = ["satellite","communication","gps","orbit","spaceflight","NASA","ISS"];
+export const aliases = ["satellite"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6f0";

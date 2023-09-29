@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a6.png";
 
 export const icon = png;
 export const name = "SweatDroplets";
-export const aliases = ["sweat_droplets","water","drip","oops"];
+export const aliases = ["sweat droplets","sweat_droplets","water","drip","oops"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a6";

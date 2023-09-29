@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f233.png";
 
 export const icon = png;
 export const name = "JapaneseVacancyButton";
-export const aliases = ["japanese_vacancy_button","kanji","japanese","chinese","empty","sky","blue-square"];
+export const aliases = ["Japanese “vacancy” button","japanese_vacancy_button","kanji","japanese","chinese","empty","sky","blue-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f233";

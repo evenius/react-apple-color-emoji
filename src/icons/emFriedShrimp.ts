@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f364.png";
 
 export const icon = png;
 export const name = "FriedShrimp";
-export const aliases = ["fried_shrimp","food","animal","appetizer","summer"];
+export const aliases = ["fried shrimp","fried_shrimp","food","animal","appetizer","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f364";

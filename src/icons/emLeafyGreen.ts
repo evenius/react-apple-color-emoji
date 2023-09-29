@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f96c.png";
 
 export const icon = png;
 export const name = "LeafyGreen";
-export const aliases = ["leafy_green","food","vegetable","plant","bok choy","cabbage","kale","lettuce"];
+export const aliases = ["leafy green","leafy_green","food","vegetable","plant","bok choy","cabbage","kale","lettuce"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f96c";

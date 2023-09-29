@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3a7.png";
 
 export const icon = png;
 export const name = "Headphone";
-export const aliases = ["headphone","music","score","gadgets"];
+export const aliases = ["headphone","headphone","music","score","gadgets"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3a7";

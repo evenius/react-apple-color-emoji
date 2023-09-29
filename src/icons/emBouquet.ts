@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f490.png";
 
 export const icon = png;
 export const name = "Bouquet";
-export const aliases = ["bouquet","flowers","nature","spring"];
+export const aliases = ["bouquet","bouquet","flowers","nature","spring"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f490";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f50b.png";
 
 export const icon = png;
 export const name = "Battery";
-export const aliases = ["battery","power","energy","sustain"];
+export const aliases = ["battery","battery","power","energy","sustain"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f50b";

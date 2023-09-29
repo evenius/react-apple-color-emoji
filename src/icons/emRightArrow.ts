@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u27a1.png";
 
 export const icon = png;
 export const name = "RightArrow";
-export const aliases = ["right_arrow","blue-square","next"];
+export const aliases = ["right arrow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u27a1";

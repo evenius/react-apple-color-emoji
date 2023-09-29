@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fac4.png";
 
 export const icon = png;
 export const name = "PregnantPerson";
-export const aliases = ["pregnant person","baby","belly"];
+export const aliases = ["pregnant person","pregnant person","baby","belly"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fac4";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f507.png";
 
 export const icon = png;
 export const name = "MutedSpeaker";
-export const aliases = ["muted_speaker","sound","volume","silence","quiet"];
+export const aliases = ["muted speaker","muted_speaker","sound","volume","silence","quiet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f507";

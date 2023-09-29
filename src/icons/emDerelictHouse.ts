@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3da.png";
 
 export const icon = png;
 export const name = "DerelictHouse";
-export const aliases = ["derelict_house","abandon","evict","broken","building"];
+export const aliases = ["derelict house"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3da";

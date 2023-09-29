@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f64e.png";
 
 export const icon = png;
 export const name = "PersonPouting";
-export const aliases = ["person_pouting","upset"];
+export const aliases = ["person pouting","person_pouting","upset"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f64e";

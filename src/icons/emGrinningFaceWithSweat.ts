@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f605.png";
 
 export const icon = png;
 export const name = "GrinningFaceWithSweat";
-export const aliases = ["grinning_face_with_sweat","face","hot","happy","laugh","sweat","smile","relief"];
+export const aliases = ["grinning face with sweat","grinning_face_with_sweat","face","hot","happy","laugh","sweat","smile","relief"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f605";

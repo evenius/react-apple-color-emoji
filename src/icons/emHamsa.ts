@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faac.png";
 
 export const icon = png;
 export const name = "Hamsa";
-export const aliases = ["hamsa","religion","protection"];
+export const aliases = ["hamsa","hamsa","religion","protection"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faac";

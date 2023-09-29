@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fad8.png";
 
 export const icon = png;
 export const name = "Beans";
-export const aliases = ["beans","food"];
+export const aliases = ["beans","beans","food"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fad8";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4c0.png";
 
 export const icon = png;
 export const name = "Dvd";
-export const aliases = ["dvd","cd","disk","disc"];
+export const aliases = ["dvd","dvd","cd","disk","disc"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4c0";

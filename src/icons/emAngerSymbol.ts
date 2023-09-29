@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a2.png";
 
 export const icon = png;
 export const name = "AngerSymbol";
-export const aliases = ["anger_symbol","angry","mad"];
+export const aliases = ["anger symbol","anger_symbol","angry","mad"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a2";

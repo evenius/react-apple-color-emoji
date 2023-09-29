@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f93a.png";
 
 export const icon = png;
 export const name = "PersonFencing";
-export const aliases = ["person_fencing","sports","fencing","sword"];
+export const aliases = ["person fencing","person_fencing","sports","fencing","sword"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f93a";

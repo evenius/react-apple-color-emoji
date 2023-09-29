@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9ea.png";
 
 export const icon = png;
 export const name = "TestTube";
-export const aliases = ["test_tube","chemistry","experiment","lab","science"];
+export const aliases = ["test tube","test_tube","chemistry","experiment","lab","science"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9ea";

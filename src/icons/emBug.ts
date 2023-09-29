@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f41b.png";
 
 export const icon = png;
 export const name = "Bug";
-export const aliases = ["bug","animal","insect","nature","worm"];
+export const aliases = ["bug","bug","animal","insect","nature","worm"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f41b";

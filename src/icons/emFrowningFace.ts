@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2639.png";
 
 export const icon = png;
 export const name = "FrowningFace";
-export const aliases = ["frowning_face","face","sad","upset","frown"];
+export const aliases = ["frowning face"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2639";

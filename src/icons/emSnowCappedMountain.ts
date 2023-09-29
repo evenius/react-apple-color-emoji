@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3d4.png";
 
 export const icon = png;
 export const name = "SnowCappedMountain";
-export const aliases = ["snow_capped_mountain","photo","nature","environment","winter","cold"];
+export const aliases = ["snow-capped mountain"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3d4";

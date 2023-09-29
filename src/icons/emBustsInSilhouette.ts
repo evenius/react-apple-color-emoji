@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f465.png";
 
 export const icon = png;
 export const name = "BustsInSilhouette";
-export const aliases = ["busts_in_silhouette","user","person","human","group","team"];
+export const aliases = ["busts in silhouette","busts_in_silhouette","user","person","human","group","team"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f465";

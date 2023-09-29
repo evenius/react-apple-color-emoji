@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6c5.png";
 
 export const icon = png;
 export const name = "LeftLuggage";
-export const aliases = ["left_luggage","blue-square","travel"];
+export const aliases = ["left luggage","left_luggage","blue-square","travel"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6c5";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f54d.png";
 
 export const icon = png;
 export const name = "Synagogue";
-export const aliases = ["synagogue","judaism","worship","temple","jewish"];
+export const aliases = ["synagogue","synagogue","judaism","worship","temple","jewish"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f54d";

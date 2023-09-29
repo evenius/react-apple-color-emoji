@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f52f.png";
 
 export const icon = png;
 export const name = "DottedSixPointedStar";
-export const aliases = ["dotted_six_pointed_star","purple-square","religion","jewish","hexagram"];
+export const aliases = ["dotted six-pointed star","dotted_six_pointed_star","purple-square","religion","jewish","hexagram"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f52f";

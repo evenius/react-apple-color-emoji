@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f612.png";
 
 export const icon = png;
 export const name = "UnamusedFace";
-export const aliases = ["unamused_face","indifference","bored","straight face","serious","sarcasm","unimpressed","skeptical","dubious","side_eye"];
+export const aliases = ["unamused face","unamused_face","indifference","bored","straight face","serious","sarcasm","unimpressed","skeptical","dubious","side_eye"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f612";

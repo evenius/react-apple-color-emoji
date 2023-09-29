@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4b9.png";
 
 export const icon = png;
 export const name = "ChartIncreasingWithYen";
-export const aliases = ["chart_increasing_with_yen","green-square","graph","presentation","stats"];
+export const aliases = ["chart increasing with yen","chart_increasing_with_yen","green-square","graph","presentation","stats"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4b9";

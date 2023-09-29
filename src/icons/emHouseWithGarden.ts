@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3e1.png";
 
 export const icon = png;
 export const name = "HouseWithGarden";
-export const aliases = ["house_with_garden","home","plant","nature"];
+export const aliases = ["house with garden","house_with_garden","home","plant","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3e1";

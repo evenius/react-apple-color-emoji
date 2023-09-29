@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9b6.png";
 
 export const icon = png;
 export const name = "Foot";
-export const aliases = ["foot","kick","stomp"];
+export const aliases = ["foot","foot","kick","stomp"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9b6";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f518.png";
 
 export const icon = png;
 export const name = "RadioButton";
-export const aliases = ["radio_button","input","old","music","circle"];
+export const aliases = ["radio button","radio_button","input","old","music","circle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f518";

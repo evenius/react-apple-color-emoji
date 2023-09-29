@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f640.png";
 
 export const icon = png;
 export const name = "WearyCat";
-export const aliases = ["weary_cat","animal","cats","munch","scared","scream"];
+export const aliases = ["weary cat","weary_cat","animal","cats","munch","scared","scream"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f640";

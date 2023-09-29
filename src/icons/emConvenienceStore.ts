@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3ea.png";
 
 export const icon = png;
 export const name = "ConvenienceStore";
-export const aliases = ["convenience_store","building","shopping","groceries"];
+export const aliases = ["convenience store","convenience_store","building","shopping","groceries"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3ea";

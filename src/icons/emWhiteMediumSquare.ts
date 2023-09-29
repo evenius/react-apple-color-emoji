@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u25fb.png";
 
 export const icon = png;
 export const name = "WhiteMediumSquare";
-export const aliases = ["white_medium_square","shape","stone","icon"];
+export const aliases = ["white medium square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u25fb";

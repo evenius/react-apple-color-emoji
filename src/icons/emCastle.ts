@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3f0.png";
 
 export const icon = png;
 export const name = "Castle";
-export const aliases = ["castle","building","royalty","history"];
+export const aliases = ["castle","castle","building","royalty","history"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3f0";

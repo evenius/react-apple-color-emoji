@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f48b.png";
 
 export const icon = png;
 export const name = "KissMark";
-export const aliases = ["kiss_mark","face","lips","love","like","affection","valentines"];
+export const aliases = ["kiss mark","kiss_mark","face","lips","love","like","affection","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f48b";

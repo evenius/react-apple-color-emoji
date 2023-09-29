@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3cd.png";
 
 export const icon = png;
 export const name = "Motorcycle";
-export const aliases = ["motorcycle","race","sports","fast"];
+export const aliases = ["motorcycle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3cd";

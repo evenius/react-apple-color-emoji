@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa97.png";
 
 export const icon = png;
 export const name = "Accordion";
-export const aliases = ["accordion","music"];
+export const aliases = ["accordion","accordion","music"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa97";

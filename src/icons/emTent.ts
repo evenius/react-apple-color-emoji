@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26fa.png";
 
 export const icon = png;
 export const name = "Tent";
-export const aliases = ["tent","photo","camping","outdoors"];
+export const aliases = ["tent","tent","photo","camping","outdoors"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26fa";

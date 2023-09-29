@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3eb.png";
 
 export const icon = png;
 export const name = "School";
-export const aliases = ["school","building","student","education","learn","teach"];
+export const aliases = ["school","school","building","student","education","learn","teach"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3eb";

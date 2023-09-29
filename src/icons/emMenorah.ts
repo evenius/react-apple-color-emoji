@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f54e.png";
 
 export const icon = png;
 export const name = "Menorah";
-export const aliases = ["menorah","hanukkah","candles","jewish"];
+export const aliases = ["menorah","menorah","hanukkah","candles","jewish"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f54e";

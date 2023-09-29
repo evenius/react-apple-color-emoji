@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4dd.png";
 
 export const icon = png;
 export const name = "Memo";
-export const aliases = ["memo","write","documents","stationery","pencil","paper","writing","legal","exam","quiz","test","study","compose"];
+export const aliases = ["memo","memo","write","documents","stationery","pencil","paper","writing","legal","exam","quiz","test","study","compose"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4dd";

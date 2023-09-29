@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f320.png";
 
 export const icon = png;
 export const name = "ShootingStar";
-export const aliases = ["shooting_star","night","photo"];
+export const aliases = ["shooting star","shooting_star","night","photo"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f320";

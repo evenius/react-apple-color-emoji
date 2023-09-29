@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f93e.png";
 
 export const icon = png;
 export const name = "PersonPlayingHandball";
-export const aliases = ["person_playing_handball","sport"];
+export const aliases = ["person playing handball","person_playing_handball","sport"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f93e";

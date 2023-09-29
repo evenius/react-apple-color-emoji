@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faaa.png";
 
 export const icon = png;
 export const name = "IdentificationCard";
-export const aliases = ["identification card","document"];
+export const aliases = ["identification card","identification card","document"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faaa";

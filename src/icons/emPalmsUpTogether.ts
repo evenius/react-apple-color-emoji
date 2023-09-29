@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f932.png";
 
 export const icon = png;
 export const name = "PalmsUpTogether";
-export const aliases = ["palms_up_together","hands","gesture","cupped","prayer"];
+export const aliases = ["palms up together","palms_up_together","hands","gesture","cupped","prayer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f932";

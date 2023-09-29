@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f607.png";
 
 export const icon = png;
 export const name = "SmilingFaceWithHalo";
-export const aliases = ["smiling_face_with_halo","face","angel","heaven","halo","innocent"];
+export const aliases = ["smiling face with halo","smiling_face_with_halo","face","angel","heaven","halo","innocent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f607";

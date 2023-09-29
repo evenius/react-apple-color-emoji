@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5b1.png";
 
 export const icon = png;
 export const name = "ComputerMouse";
-export const aliases = ["computer_mouse","click"];
+export const aliases = ["computer mouse"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5b1";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f914.png";
 
 export const icon = png;
 export const name = "ThinkingFace";
-export const aliases = ["thinking_face","face","hmmm","think","consider"];
+export const aliases = ["thinking face","thinking_face","face","hmmm","think","consider"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f914";

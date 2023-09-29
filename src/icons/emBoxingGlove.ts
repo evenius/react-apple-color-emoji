@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f94a.png";
 
 export const icon = png;
 export const name = "BoxingGlove";
-export const aliases = ["boxing_glove","sports","fighting"];
+export const aliases = ["boxing glove","boxing_glove","sports","fighting"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f94a";

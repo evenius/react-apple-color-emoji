@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f38a.png";
 
 export const icon = png;
 export const name = "ConfettiBall";
-export const aliases = ["confetti_ball","festival","party","birthday","circus"];
+export const aliases = ["confetti ball","confetti_ball","festival","party","birthday","circus"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f38a";

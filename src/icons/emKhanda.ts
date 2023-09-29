@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faaf.png";
 
 export const icon = png;
 export const name = "Khanda";
-export const aliases = ["khanda","Sikhism","religion"];
+export const aliases = ["khanda","khanda","Sikhism","religion"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faaf";

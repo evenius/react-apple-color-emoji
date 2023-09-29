@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f370.png";
 
 export const icon = png;
 export const name = "Shortcake";
-export const aliases = ["shortcake","food","dessert"];
+export const aliases = ["shortcake","shortcake","food","dessert"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f370";

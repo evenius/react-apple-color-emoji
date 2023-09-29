@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f960.png";
 
 export const icon = png;
 export const name = "FortuneCookie";
-export const aliases = ["fortune_cookie","food","prophecy","dessert"];
+export const aliases = ["fortune cookie","fortune_cookie","food","prophecy","dessert"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f960";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4fd.png";
 
 export const icon = png;
 export const name = "FilmProjector";
-export const aliases = ["film_projector","video","tape","record","movie"];
+export const aliases = ["film projector"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4fd";

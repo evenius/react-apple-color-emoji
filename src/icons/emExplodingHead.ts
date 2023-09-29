@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f92f.png";
 
 export const icon = png;
 export const name = "ExplodingHead";
-export const aliases = ["exploding_head","face","shocked","mind","blown"];
+export const aliases = ["exploding head","exploding_head","face","shocked","mind","blown"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f92f";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f373.png";
 
 export const icon = png;
 export const name = "Cooking";
-export const aliases = ["cooking","food","breakfast","kitchen","egg","skillet"];
+export const aliases = ["cooking","cooking","food","breakfast","kitchen","egg","skillet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f373";

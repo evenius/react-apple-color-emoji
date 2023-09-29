@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26a7.png";
 
 export const icon = png;
 export const name = "TransgenderSymbol";
-export const aliases = ["transgender symbol","lgbtq"];
+export const aliases = ["transgender symbol"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26a7";

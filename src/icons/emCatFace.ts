@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f431.png";
 
 export const icon = png;
 export const name = "CatFace";
-export const aliases = ["cat_face","animal","meow","nature","pet","kitten"];
+export const aliases = ["cat face","cat_face","animal","meow","nature","pet","kitten"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f431";

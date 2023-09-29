@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f32c.png";
 
 export const icon = png;
 export const name = "WindFace";
-export const aliases = ["wind_face","gust","air"];
+export const aliases = ["wind face"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f32c";

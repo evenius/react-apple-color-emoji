@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2603.png";
 
 export const icon = png;
 export const name = "Snowman";
-export const aliases = ["snowman","winter","season","cold","weather","christmas","xmas","frozen"];
+export const aliases = ["snowman"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2603";

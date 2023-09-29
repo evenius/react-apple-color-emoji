@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f42d.png";
 
 export const icon = png;
 export const name = "MouseFace";
-export const aliases = ["mouse_face","animal","nature","cheese_wedge","rodent"];
+export const aliases = ["mouse face","mouse_face","animal","nature","cheese_wedge","rodent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f42d";

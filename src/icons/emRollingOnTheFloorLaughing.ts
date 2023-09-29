@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f923.png";
 
 export const icon = png;
 export const name = "RollingOnTheFloorLaughing";
-export const aliases = ["rolling_on_the_floor_laughing","face","rolling","floor","laughing","lol","haha","rofl"];
+export const aliases = ["rolling on the floor laughing","rolling_on_the_floor_laughing","face","rolling","floor","laughing","lol","haha","rofl"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f923";

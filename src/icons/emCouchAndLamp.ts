@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6cb.png";
 
 export const icon = png;
 export const name = "CouchAndLamp";
-export const aliases = ["couch_and_lamp","read","chill"];
+export const aliases = ["couch and lamp"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6cb";

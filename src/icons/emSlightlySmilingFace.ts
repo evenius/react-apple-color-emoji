@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f642.png";
 
 export const icon = png;
 export const name = "SlightlySmilingFace";
-export const aliases = ["slightly_smiling_face","face","smile"];
+export const aliases = ["slightly smiling face","slightly_smiling_face","face","smile"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f642";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f924.png";
 
 export const icon = png;
 export const name = "DroolingFace";
-export const aliases = ["drooling_face","face"];
+export const aliases = ["drooling face","drooling_face","face"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f924";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26ce.png";
 
 export const icon = png;
 export const name = "Ophiuchus";
-export const aliases = ["ophiuchus","sign","purple-square","constellation","astrology"];
+export const aliases = ["Ophiuchus","ophiuchus","sign","purple-square","constellation","astrology"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26ce";

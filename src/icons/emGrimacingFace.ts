@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f62c.png";
 
 export const icon = png;
 export const name = "GrimacingFace";
-export const aliases = ["grimacing_face","face","grimace","teeth"];
+export const aliases = ["grimacing face","grimacing_face","face","grimace","teeth"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f62c";

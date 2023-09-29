@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f94b.png";
 
 export const icon = png;
 export const name = "MartialArtsUniform";
-export const aliases = ["martial_arts_uniform","judo","karate","taekwondo"];
+export const aliases = ["martial arts uniform","martial_arts_uniform","judo","karate","taekwondo"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f94b";

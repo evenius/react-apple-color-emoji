@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u21a9.png";
 
 export const icon = png;
 export const name = "RightArrowCurvingLeft";
-export const aliases = ["right_arrow_curving_left","back","return","blue-square","undo","enter"];
+export const aliases = ["right arrow curving left"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u21a9";

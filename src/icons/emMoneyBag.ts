@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4b0.png";
 
 export const icon = png;
 export const name = "MoneyBag";
-export const aliases = ["money_bag","dollar","payment","coins","sale"];
+export const aliases = ["money bag","money_bag","dollar","payment","coins","sale"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4b0";

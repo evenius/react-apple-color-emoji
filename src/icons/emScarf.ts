@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9e3.png";
 
 export const icon = png;
 export const name = "Scarf";
-export const aliases = ["scarf","neck","winter","clothes"];
+export const aliases = ["scarf","scarf","neck","winter","clothes"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9e3";

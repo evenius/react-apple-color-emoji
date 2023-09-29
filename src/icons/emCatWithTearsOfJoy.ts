@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f639.png";
 
 export const icon = png;
 export const name = "CatWithTearsOfJoy";
-export const aliases = ["cat_with_tears_of_joy","animal","cats","haha","happy","tears"];
+export const aliases = ["cat with tears of joy","cat_with_tears_of_joy","animal","cats","haha","happy","tears"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f639";

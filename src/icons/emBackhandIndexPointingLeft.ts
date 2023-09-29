@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f448.png";
 
 export const icon = png;
 export const name = "BackhandIndexPointingLeft";
-export const aliases = ["backhand_index_pointing_left","direction","fingers","hand","left"];
+export const aliases = ["backhand index pointing left","backhand_index_pointing_left","direction","fingers","hand","left"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f448";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f437.png";
 
 export const icon = png;
 export const name = "PigFace";
-export const aliases = ["pig_face","animal","oink","nature"];
+export const aliases = ["pig face","pig_face","animal","oink","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f437";

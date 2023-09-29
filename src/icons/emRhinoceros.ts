@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f98f.png";
 
 export const icon = png;
 export const name = "Rhinoceros";
-export const aliases = ["rhinoceros","animal","nature","horn"];
+export const aliases = ["rhinoceros","rhinoceros","animal","nature","horn"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f98f";

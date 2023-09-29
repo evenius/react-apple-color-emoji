@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f91f.png";
 
 export const icon = png;
 export const name = "LoveYouGesture";
-export const aliases = ["love_you_gesture","hand","fingers","gesture"];
+export const aliases = ["love-you gesture","love_you_gesture","hand","fingers","gesture"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f91f";

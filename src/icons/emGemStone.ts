@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f48e.png";
 
 export const icon = png;
 export const name = "GemStone";
-export const aliases = ["gem_stone","blue","ruby","diamond","jewelry"];
+export const aliases = ["gem stone","gem_stone","blue","ruby","diamond","jewelry"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f48e";

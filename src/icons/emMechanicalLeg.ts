@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9bf.png";
 
 export const icon = png;
 export const name = "MechanicalLeg";
-export const aliases = ["mechanical_leg","accessibility"];
+export const aliases = ["mechanical leg","mechanical_leg","accessibility"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9bf";

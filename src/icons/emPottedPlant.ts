@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fab4.png";
 
 export const icon = png;
 export const name = "PottedPlant";
-export const aliases = ["potted plant","greenery","house"];
+export const aliases = ["potted plant","potted plant","greenery","house"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fab4";

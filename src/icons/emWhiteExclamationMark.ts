@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2755.png";
 
 export const icon = png;
 export const name = "WhiteExclamationMark";
-export const aliases = ["white_exclamation_mark","surprise","punctuation","gray","wow","warning"];
+export const aliases = ["white exclamation mark","white_exclamation_mark","surprise","punctuation","gray","wow","warning"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2755";

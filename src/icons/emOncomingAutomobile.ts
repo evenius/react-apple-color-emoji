@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f698.png";
 
 export const icon = png;
 export const name = "OncomingAutomobile";
-export const aliases = ["oncoming_automobile","car","vehicle","transportation"];
+export const aliases = ["oncoming automobile","oncoming_automobile","car","vehicle","transportation"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f698";

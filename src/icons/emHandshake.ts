@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f91d.png";
 
 export const icon = png;
 export const name = "Handshake";
-export const aliases = ["handshake","agreement","shake"];
+export const aliases = ["handshake","handshake","agreement","shake"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f91d";

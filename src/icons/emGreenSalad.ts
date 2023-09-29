@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f957.png";
 
 export const icon = png;
 export const name = "GreenSalad";
-export const aliases = ["green_salad","food","healthy","lettuce","vegetable"];
+export const aliases = ["green salad","green_salad","food","healthy","lettuce","vegetable"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f957";

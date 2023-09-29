@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2734.png";
 
 export const icon = png;
 export const name = "EightPointedStar";
-export const aliases = ["eight_pointed_star","orange-square","shape","polygon"];
+export const aliases = ["eight-pointed star"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2734";

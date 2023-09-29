@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f919.png";
 
 export const icon = png;
 export const name = "CallMeHand";
-export const aliases = ["call_me_hand","hands","gesture","shaka"];
+export const aliases = ["call me hand","call_me_hand","hands","gesture","shaka"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f919";

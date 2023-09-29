@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f46d.png";
 
 export const icon = png;
 export const name = "WomenHoldingHands";
-export const aliases = ["women_holding_hands","pair","friendship","couple","love","like","female","people","human"];
+export const aliases = ["women holding hands","women_holding_hands","pair","friendship","couple","love","like","female","people","human"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f46d";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f4.png";
 
 export const icon = png;
 export const name = "MobilePhoneOff";
-export const aliases = ["mobile_phone_off","mute","orange-square","silence","quiet"];
+export const aliases = ["mobile phone off","mobile_phone_off","mute","orange-square","silence","quiet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f4";

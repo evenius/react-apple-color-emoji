@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6d1.png";
 
 export const icon = png;
 export const name = "StopSign";
-export const aliases = ["stop_sign","stop"];
+export const aliases = ["stop sign","stop_sign","stop"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6d1";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f501.png";
 
 export const icon = png;
 export const name = "RepeatButton";
-export const aliases = ["repeat_button","loop","record"];
+export const aliases = ["repeat button","repeat_button","loop","record"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f501";

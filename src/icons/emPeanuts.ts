@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f95c.png";
 
 export const icon = png;
 export const name = "Peanuts";
-export const aliases = ["peanuts","food","nut"];
+export const aliases = ["peanuts","peanuts","food","nut"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f95c";

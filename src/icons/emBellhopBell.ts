@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6ce.png";
 
 export const icon = png;
 export const name = "BellhopBell";
-export const aliases = ["bellhop_bell","service"];
+export const aliases = ["bellhop bell"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6ce";

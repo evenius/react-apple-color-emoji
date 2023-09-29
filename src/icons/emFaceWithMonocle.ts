@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9d0.png";
 
 export const icon = png;
 export const name = "FaceWithMonocle";
-export const aliases = ["face_with_monocle","face","stuffy","wealthy"];
+export const aliases = ["face with monocle","face_with_monocle","face","stuffy","wealthy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9d0";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f375.png";
 
 export const icon = png;
 export const name = "TeacupWithoutHandle";
-export const aliases = ["teacup_without_handle","drink","bowl","breakfast","green","british"];
+export const aliases = ["teacup without handle","teacup_without_handle","drink","bowl","breakfast","green","british"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f375";

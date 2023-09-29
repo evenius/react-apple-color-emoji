@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5dd.png";
 
 export const icon = png;
 export const name = "OldKey";
-export const aliases = ["old_key","lock","door","password"];
+export const aliases = ["old key"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5dd";

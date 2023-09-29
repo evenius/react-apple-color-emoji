@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f922.png";
 
 export const icon = png;
 export const name = "NauseatedFace";
-export const aliases = ["nauseated_face","face","vomit","gross","green","sick","throw up","ill"];
+export const aliases = ["nauseated face","nauseated_face","face","vomit","gross","green","sick","throw up","ill"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f922";

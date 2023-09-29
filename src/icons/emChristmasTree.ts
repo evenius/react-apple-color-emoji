@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f384.png";
 
 export const icon = png;
 export const name = "ChristmasTree";
-export const aliases = ["christmas_tree","festival","vacation","december","xmas","celebration"];
+export const aliases = ["Christmas tree","christmas_tree","festival","vacation","december","xmas","celebration"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f384";

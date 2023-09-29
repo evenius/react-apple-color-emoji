@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f399.png";
 
 export const icon = png;
 export const name = "StudioMicrophone";
-export const aliases = ["studio_microphone","sing","recording","artist","talkshow"];
+export const aliases = ["studio microphone"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f399";

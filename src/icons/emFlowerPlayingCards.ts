@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3b4.png";
 
 export const icon = png;
 export const name = "FlowerPlayingCards";
-export const aliases = ["flower_playing_cards","game","sunset","red"];
+export const aliases = ["flower playing cards","flower_playing_cards","game","sunset","red"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3b4";

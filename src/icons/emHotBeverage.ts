@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2615.png";
 
 export const icon = png;
 export const name = "HotBeverage";
-export const aliases = ["hot_beverage","beverage","caffeine","latte","espresso","coffee","mug"];
+export const aliases = ["hot beverage","hot_beverage","beverage","caffeine","latte","espresso","coffee","mug"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2615";

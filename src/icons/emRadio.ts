@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4fb.png";
 
 export const icon = png;
 export const name = "Radio";
-export const aliases = ["radio","communication","music","podcast","program"];
+export const aliases = ["radio","radio","communication","music","podcast","program"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4fb";

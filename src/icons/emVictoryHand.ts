@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u270c.png";
 
 export const icon = png;
 export const name = "VictoryHand";
-export const aliases = ["victory_hand","fingers","ohyeah","hand","peace","victory","two"];
+export const aliases = ["victory hand"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u270c";

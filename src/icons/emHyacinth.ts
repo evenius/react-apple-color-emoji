@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fabb.png";
 
 export const icon = png;
 export const name = "Hyacinth";
-export const aliases = ["hyacinth","flower","lavender"];
+export const aliases = ["hyacinth","hyacinth","flower","lavender"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fabb";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4cf.png";
 
 export const icon = png;
 export const name = "StraightRuler";
-export const aliases = ["straight_ruler","stationery","calculate","length","math","school","drawing","architect","sketch"];
+export const aliases = ["straight ruler","straight_ruler","stationery","calculate","length","math","school","drawing","architect","sketch"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4cf";

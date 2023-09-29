@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa9e.png";
 
 export const icon = png;
 export const name = "Mirror";
-export const aliases = ["mirror","reflection"];
+export const aliases = ["mirror","mirror","reflection"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa9e";

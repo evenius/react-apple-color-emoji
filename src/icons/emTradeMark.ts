@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2122.png";
 
 export const icon = png;
 export const name = "TradeMark";
-export const aliases = ["trade_mark","trademark","brand","law","legal"];
+export const aliases = ["trade mark"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2122";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fae3.png";
 
 export const icon = png;
 export const name = "FaceWithPeekingEye";
-export const aliases = ["face with peeking eye","scared","frightening","embarrassing","shy"];
+export const aliases = ["face with peeking eye","face with peeking eye","scared","frightening","embarrassing","shy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fae3";

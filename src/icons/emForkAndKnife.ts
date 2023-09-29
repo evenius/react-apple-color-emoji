@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f374.png";
 
 export const icon = png;
 export const name = "ForkAndKnife";
-export const aliases = ["fork_and_knife","cutlery","kitchen"];
+export const aliases = ["fork and knife","fork_and_knife","cutlery","kitchen"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f374";

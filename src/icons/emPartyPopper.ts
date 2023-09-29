@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f389.png";
 
 export const icon = png;
 export const name = "PartyPopper";
-export const aliases = ["party_popper","party","congratulations","birthday","magic","circus","celebration","tada"];
+export const aliases = ["party popper","party_popper","party","congratulations","birthday","magic","circus","celebration","tada"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f389";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5c3.png";
 
 export const icon = png;
 export const name = "CardFileBox";
-export const aliases = ["card_file_box","business","stationery"];
+export const aliases = ["card file box"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5c3";

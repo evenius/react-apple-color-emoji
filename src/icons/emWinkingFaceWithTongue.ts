@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f61c.png";
 
 export const icon = png;
 export const name = "WinkingFaceWithTongue";
-export const aliases = ["winking_face_with_tongue","face","prank","childish","playful","mischievous","smile","wink","tongue"];
+export const aliases = ["winking face with tongue","winking_face_with_tongue","face","prank","childish","playful","mischievous","smile","wink","tongue"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f61c";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fac2.png";
 
 export const icon = png;
 export const name = "PeopleHugging";
-export const aliases = ["people hugging","care"];
+export const aliases = ["people hugging","people hugging","care"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fac2";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faae.png";
 
 export const icon = png;
 export const name = "HairPick";
-export const aliases = ["hair pick","afro","comb"];
+export const aliases = ["hair pick","hair pick","afro","comb"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faae";

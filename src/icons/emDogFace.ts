@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f436.png";
 
 export const icon = png;
 export const name = "DogFace";
-export const aliases = ["dog_face","animal","friend","nature","woof","puppy","pet","faithful"];
+export const aliases = ["dog face","dog_face","animal","friend","nature","woof","puppy","pet","faithful"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f436";

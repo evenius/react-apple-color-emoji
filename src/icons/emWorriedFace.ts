@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f61f.png";
 
 export const icon = png;
 export const name = "WorriedFace";
-export const aliases = ["worried_face","face","concern","nervous",":("];
+export const aliases = ["worried face","worried_face","face","concern","nervous",":("];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f61f";

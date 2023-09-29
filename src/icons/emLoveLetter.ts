@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f48c.png";
 
 export const icon = png;
 export const name = "LoveLetter";
-export const aliases = ["love_letter","email","like","affection","envelope","valentines"];
+export const aliases = ["love letter","love_letter","email","like","affection","envelope","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f48c";

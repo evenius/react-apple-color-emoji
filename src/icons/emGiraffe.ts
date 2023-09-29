@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f992.png";
 
 export const icon = png;
 export const name = "Giraffe";
-export const aliases = ["giraffe","animal","nature","spots","safari"];
+export const aliases = ["giraffe","giraffe","animal","nature","spots","safari"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f992";

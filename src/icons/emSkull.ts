@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f480.png";
 
 export const icon = png;
 export const name = "Skull";
-export const aliases = ["skull","dead","skeleton","creepy","death"];
+export const aliases = ["skull","skull","dead","skeleton","creepy","death"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f480";

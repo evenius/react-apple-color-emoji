@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5a4.png";
 
 export const icon = png;
 export const name = "BlackHeart";
-export const aliases = ["black_heart","evil"];
+export const aliases = ["black heart","black_heart","evil"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5a4";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23cf.png";
 
 export const icon = png;
 export const name = "EjectButton";
-export const aliases = ["eject_button","blue-square"];
+export const aliases = ["eject button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23cf";

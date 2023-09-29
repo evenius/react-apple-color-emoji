@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f537.png";
 
 export const icon = png;
 export const name = "LargeBlueDiamond";
-export const aliases = ["large_blue_diamond","shape","jewel","gem"];
+export const aliases = ["large blue diamond","large_blue_diamond","shape","jewel","gem"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f537";

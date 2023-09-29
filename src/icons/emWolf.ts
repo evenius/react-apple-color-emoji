@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f43a.png";
 
 export const icon = png;
 export const name = "Wolf";
-export const aliases = ["wolf","animal","nature","wild"];
+export const aliases = ["wolf","wolf","animal","nature","wild"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f43a";

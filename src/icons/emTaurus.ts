@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2649.png";
 
 export const icon = png;
 export const name = "Taurus";
-export const aliases = ["taurus","purple-square","sign","zodiac","astrology"];
+export const aliases = ["Taurus","taurus","purple-square","sign","zodiac","astrology"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2649";

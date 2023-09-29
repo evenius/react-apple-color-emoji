@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3e3.png";
 
 export const icon = png;
 export const name = "JapanesePostOffice";
-export const aliases = ["japanese_post_office","building","envelope","communication"];
+export const aliases = ["Japanese post office","japanese_post_office","building","envelope","communication"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3e3";

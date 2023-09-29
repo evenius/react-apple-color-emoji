@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4ec.png";
 
 export const icon = png;
 export const name = "OpenMailboxWithRaisedFlag";
-export const aliases = ["open_mailbox_with_raised_flag","email","inbox","communication"];
+export const aliases = ["open mailbox with raised flag","open_mailbox_with_raised_flag","email","inbox","communication"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4ec";

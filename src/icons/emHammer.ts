@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f528.png";
 
 export const icon = png;
 export const name = "Hammer";
-export const aliases = ["hammer","tools","build","create"];
+export const aliases = ["hammer","hammer","tools","build","create"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f528";

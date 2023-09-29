@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f693.png";
 
 export const icon = png;
 export const name = "PoliceCar";
-export const aliases = ["police_car","vehicle","cars","transportation","law","legal","enforcement"];
+export const aliases = ["police car","police_car","vehicle","cars","transportation","law","legal","enforcement"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f693";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f94c.png";
 
 export const icon = png;
 export const name = "CurlingStone";
-export const aliases = ["curling_stone","sports"];
+export const aliases = ["curling stone","curling_stone","sports"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f94c";

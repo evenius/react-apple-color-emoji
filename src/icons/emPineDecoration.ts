@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f38d.png";
 
 export const icon = png;
 export const name = "PineDecoration";
-export const aliases = ["pine_decoration","japanese","plant","nature","vegetable","panda","new_years","bamboo"];
+export const aliases = ["pine decoration","pine_decoration","japanese","plant","nature","vegetable","panda","new_years","bamboo"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f38d";

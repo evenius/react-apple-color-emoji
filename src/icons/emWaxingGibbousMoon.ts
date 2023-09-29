@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f314.png";
 
 export const icon = png;
 export const name = "WaxingGibbousMoon";
-export const aliases = ["waxing_gibbous_moon","nature","night","sky","gray","twilight","planet","space","evening","sleep"];
+export const aliases = ["waxing gibbous moon","waxing_gibbous_moon","nature","night","sky","gray","twilight","planet","space","evening","sleep"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f314";

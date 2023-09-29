@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f31f.png";
 
 export const icon = png;
 export const name = "GlowingStar";
-export const aliases = ["glowing_star","night","sparkle","awesome","good","magic"];
+export const aliases = ["glowing star","glowing_star","night","sparkle","awesome","good","magic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f31f";

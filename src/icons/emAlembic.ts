@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2697.png";
 
 export const icon = png;
 export const name = "Alembic";
-export const aliases = ["alembic","distilling","science","experiment","chemistry"];
+export const aliases = ["alembic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2697";

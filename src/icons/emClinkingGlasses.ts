@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f942.png";
 
 export const icon = png;
 export const name = "ClinkingGlasses";
-export const aliases = ["clinking_glasses","beverage","drink","party","alcohol","celebrate","cheers","wine","champagne","toast"];
+export const aliases = ["clinking glasses","clinking_glasses","beverage","drink","party","alcohol","celebrate","cheers","wine","champagne","toast"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f942";

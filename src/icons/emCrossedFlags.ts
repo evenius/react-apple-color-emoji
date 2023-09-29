@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f38c.png";
 
 export const icon = png;
 export const name = "CrossedFlags";
-export const aliases = ["crossed_flags","japanese","nation","country","border"];
+export const aliases = ["crossed flags","crossed_flags","japanese","nation","country","border"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f38c";

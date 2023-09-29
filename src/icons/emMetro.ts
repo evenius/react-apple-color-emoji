@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f687.png";
 
 export const icon = png;
 export const name = "Metro";
-export const aliases = ["metro","transportation","blue-square","mrt","underground","tube"];
+export const aliases = ["metro","metro","transportation","blue-square","mrt","underground","tube"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f687";

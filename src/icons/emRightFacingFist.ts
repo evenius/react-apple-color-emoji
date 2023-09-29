@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f91c.png";
 
 export const icon = png;
 export const name = "RightFacingFist";
-export const aliases = ["right_facing_fist","hand","fistbump"];
+export const aliases = ["right-facing fist","right_facing_fist","hand","fistbump"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f91c";

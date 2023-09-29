@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4db.png";
 
 export const icon = png;
 export const name = "NameBadge";
-export const aliases = ["name_badge","fire","forbid"];
+export const aliases = ["name badge","name_badge","fire","forbid"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4db";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f46e.png";
 
 export const icon = png;
 export const name = "PoliceOfficer";
-export const aliases = ["police_officer","cop"];
+export const aliases = ["police officer","police_officer","cop"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f46e";

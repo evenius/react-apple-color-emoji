@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u264f.png";
 
 export const icon = png;
 export const name = "Scorpio";
-export const aliases = ["scorpio","sign","zodiac","purple-square","astrology","scorpio"];
+export const aliases = ["Scorpio","scorpio","sign","zodiac","purple-square","astrology","scorpio"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u264f";

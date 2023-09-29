@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2754.png";
 
 export const icon = png;
 export const name = "WhiteQuestionMark";
-export const aliases = ["white_question_mark","doubts","gray","huh","confused"];
+export const aliases = ["white question mark","white_question_mark","doubts","gray","huh","confused"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2754";

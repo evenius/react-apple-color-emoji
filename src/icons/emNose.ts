@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f443.png";
 
 export const icon = png;
 export const name = "Nose";
-export const aliases = ["nose","smell","sniff"];
+export const aliases = ["nose","nose","smell","sniff"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f443";

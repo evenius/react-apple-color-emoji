@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f310.png";
 
 export const icon = png;
 export const name = "GlobeWithMeridians";
-export const aliases = ["globe_with_meridians","earth","international","world","internet","interweb","i18n"];
+export const aliases = ["globe with meridians","globe_with_meridians","earth","international","world","internet","interweb","i18n"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f310";

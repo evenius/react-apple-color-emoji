@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4b8.png";
 
 export const icon = png;
 export const name = "MoneyWithWings";
-export const aliases = ["money_with_wings","dollar","bills","payment","sale"];
+export const aliases = ["money with wings","money_with_wings","dollar","bills","payment","sale"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4b8";

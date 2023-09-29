@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23f3.png";
 
 export const icon = png;
 export const name = "HourglassNotDone";
-export const aliases = ["hourglass_not_done","oldschool","time","countdown"];
+export const aliases = ["hourglass not done","hourglass_not_done","oldschool","time","countdown"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23f3";

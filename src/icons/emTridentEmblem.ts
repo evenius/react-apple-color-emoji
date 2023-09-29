@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f531.png";
 
 export const icon = png;
 export const name = "TridentEmblem";
-export const aliases = ["trident_emblem","weapon","spear"];
+export const aliases = ["trident emblem","trident_emblem","weapon","spear"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f531";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9d9.png";
 
 export const icon = png;
 export const name = "Mage";
-export const aliases = ["mage","magic"];
+export const aliases = ["mage","mage","magic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9d9";

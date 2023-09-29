@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f402.png";
 
 export const icon = png;
 export const name = "Ox";
-export const aliases = ["ox","animal","cow","beef"];
+export const aliases = ["ox","ox","animal","cow","beef"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f402";

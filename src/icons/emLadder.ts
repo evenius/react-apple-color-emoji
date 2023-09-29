@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa9c.png";
 
 export const icon = png;
 export const name = "Ladder";
-export const aliases = ["ladder","tools"];
+export const aliases = ["ladder","ladder","tools"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa9c";

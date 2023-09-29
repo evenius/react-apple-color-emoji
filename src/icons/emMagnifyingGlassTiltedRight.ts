@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f50e.png";
 
 export const icon = png;
 export const name = "MagnifyingGlassTiltedRight";
-export const aliases = ["magnifying_glass_tilted_right","search","zoom","find","detective"];
+export const aliases = ["magnifying glass tilted right","magnifying_glass_tilted_right","search","zoom","find","detective"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f50e";

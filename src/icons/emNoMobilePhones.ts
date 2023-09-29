@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f5.png";
 
 export const icon = png;
 export const name = "NoMobilePhones";
-export const aliases = ["no_mobile_phones","iphone","mute","circle"];
+export const aliases = ["no mobile phones","no_mobile_phones","iphone","mute","circle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f5";

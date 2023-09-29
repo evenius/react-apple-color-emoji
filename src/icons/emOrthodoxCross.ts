@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2626.png";
 
 export const icon = png;
 export const name = "OrthodoxCross";
-export const aliases = ["orthodox_cross","suppedaneum","religion"];
+export const aliases = ["orthodox cross"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2626";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3c1.png";
 
 export const icon = png;
 export const name = "ChequeredFlag";
-export const aliases = ["chequered_flag","contest","finishline","race","gokart"];
+export const aliases = ["chequered flag","chequered_flag","contest","finishline","race","gokart"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3c1";

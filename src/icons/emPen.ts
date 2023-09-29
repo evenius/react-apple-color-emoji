@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f58a.png";
 
 export const icon = png;
 export const name = "Pen";
-export const aliases = ["pen","stationery","writing","write"];
+export const aliases = ["pen"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f58a";

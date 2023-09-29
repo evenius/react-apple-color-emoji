@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f56f.png";
 
 export const icon = png;
 export const name = "Candle";
-export const aliases = ["candle","fire","wax"];
+export const aliases = ["candle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f56f";

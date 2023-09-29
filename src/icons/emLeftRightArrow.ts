@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2194.png";
 
 export const icon = png;
 export const name = "LeftRightArrow";
-export const aliases = ["left_right_arrow","shape","direction","horizontal","sideways"];
+export const aliases = ["left-right arrow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2194";

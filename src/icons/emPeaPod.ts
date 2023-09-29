@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fadb.png";
 
 export const icon = png;
 export const name = "PeaPod";
-export const aliases = ["pea pod","cozy","green"];
+export const aliases = ["pea pod","pea pod","cozy","green"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fadb";

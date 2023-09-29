@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6ab.png";
 
 export const icon = png;
 export const name = "Prohibited";
-export const aliases = ["prohibited","forbid","stop","limit","denied","disallow","circle"];
+export const aliases = ["prohibited","prohibited","forbid","stop","limit","denied","disallow","circle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6ab";

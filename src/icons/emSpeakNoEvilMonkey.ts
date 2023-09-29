@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f64a.png";
 
 export const icon = png;
 export const name = "SpeakNoEvilMonkey";
-export const aliases = ["speak_no_evil_monkey","monkey","animal","nature","omg"];
+export const aliases = ["speak-no-evil monkey","speak_no_evil_monkey","monkey","animal","nature","omg"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f64a";

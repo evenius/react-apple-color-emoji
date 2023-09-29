@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9e2.png";
 
 export const icon = png;
 export const name = "BilledCap";
-export const aliases = ["billed_cap","cap","baseball"];
+export const aliases = ["billed cap","billed_cap","cap","baseball"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9e2";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5ef.png";
 
 export const icon = png;
 export const name = "RightAngerBubble";
-export const aliases = ["right_anger_bubble","caption","speech","thinking","mad"];
+export const aliases = ["right anger bubble"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5ef";

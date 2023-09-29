@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa7a.png";
 
 export const icon = png;
 export const name = "Stethoscope";
-export const aliases = ["stethoscope","health"];
+export const aliases = ["stethoscope","stethoscope","health"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa7a";

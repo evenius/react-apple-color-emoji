@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4c3.png";
 
 export const icon = png;
 export const name = "PageWithCurl";
-export const aliases = ["page_with_curl","documents","office","paper"];
+export const aliases = ["page with curl","page_with_curl","documents","office","paper"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4c3";

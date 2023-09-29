@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f616.png";
 
 export const icon = png;
 export const name = "ConfoundedFace";
-export const aliases = ["confounded_face","face","confused","sick","unwell","oops",":S"];
+export const aliases = ["confounded face","confounded_face","face","confused","sick","unwell","oops",":S"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f616";

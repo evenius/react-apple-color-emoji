@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2b55.png";
 
 export const icon = png;
 export const name = "HollowRedCircle";
-export const aliases = ["hollow_red_circle","circle","round"];
+export const aliases = ["hollow red circle","hollow_red_circle","circle","round"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2b55";

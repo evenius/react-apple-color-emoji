@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2709.png";
 
 export const icon = png;
 export const name = "Envelope";
-export const aliases = ["envelope","letter","postal","inbox","communication"];
+export const aliases = ["envelope"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2709";

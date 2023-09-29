@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f913.png";
 
 export const icon = png;
 export const name = "NerdFace";
-export const aliases = ["nerd_face","face","nerdy","geek","dork"];
+export const aliases = ["nerd face","nerd_face","face","nerdy","geek","dork"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f913";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa75.png";
 
 export const icon = png;
 export const name = "LightBlueHeart";
-export const aliases = ["light blue heart","ice","baby blue"];
+export const aliases = ["light blue heart","light blue heart","ice","baby blue"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa75";

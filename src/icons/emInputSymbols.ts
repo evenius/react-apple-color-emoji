@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f523.png";
 
 export const icon = png;
 export const name = "InputSymbols";
-export const aliases = ["input_symbols","blue-square","music","note","ampersand","percent","glyphs","characters"];
+export const aliases = ["input symbols","input_symbols","blue-square","music","note","ampersand","percent","glyphs","characters"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f523";

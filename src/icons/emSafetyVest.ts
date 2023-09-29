@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9ba.png";
 
 export const icon = png;
 export const name = "SafetyVest";
-export const aliases = ["safety_vest","protection"];
+export const aliases = ["safety vest","safety_vest","protection"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9ba";

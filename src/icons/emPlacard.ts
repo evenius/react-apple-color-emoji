@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faa7.png";
 
 export const icon = png;
 export const name = "Placard";
-export const aliases = ["placard","announcement"];
+export const aliases = ["placard","placard","announcement"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faa7";

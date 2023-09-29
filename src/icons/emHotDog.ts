@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f32d.png";
 
 export const icon = png;
 export const name = "HotDog";
-export const aliases = ["hot_dog","food","frankfurter","america"];
+export const aliases = ["hot dog","hot_dog","food","frankfurter","america"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f32d";

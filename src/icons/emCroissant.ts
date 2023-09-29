@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f950.png";
 
 export const icon = png;
 export const name = "Croissant";
-export const aliases = ["croissant","food","bread","french"];
+export const aliases = ["croissant","croissant","food","bread","french"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f950";

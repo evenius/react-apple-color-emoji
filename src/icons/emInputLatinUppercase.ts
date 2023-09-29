@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f520.png";
 
 export const icon = png;
 export const name = "InputLatinUppercase";
-export const aliases = ["input_latin_uppercase","alphabet","words","blue-square"];
+export const aliases = ["input latin uppercase","input_latin_uppercase","alphabet","words","blue-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f520";

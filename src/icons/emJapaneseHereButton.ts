@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f201.png";
 
 export const icon = png;
 export const name = "JapaneseHereButton";
-export const aliases = ["japanese_here_button","blue-square","here","katakana","japanese","destination"];
+export const aliases = ["Japanese “here” button","japanese_here_button","blue-square","here","katakana","japanese","destination"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f201";

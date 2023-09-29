@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f458.png";
 
 export const icon = png;
 export const name = "Kimono";
-export const aliases = ["kimono","dress","fashion","women","female","japanese"];
+export const aliases = ["kimono","kimono","dress","fashion","women","female","japanese"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f458";

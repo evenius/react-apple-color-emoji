@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9d8.png";
 
 export const icon = png;
 export const name = "PersonInLotusPosition";
-export const aliases = ["person_in_lotus_position","meditate"];
+export const aliases = ["person in lotus position","person_in_lotus_position","meditate"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9d8";

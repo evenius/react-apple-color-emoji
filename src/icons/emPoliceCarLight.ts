@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6a8.png";
 
 export const icon = png;
 export const name = "PoliceCarLight";
-export const aliases = ["police_car_light","police","ambulance","911","emergency","alert","error","pinged","law","legal"];
+export const aliases = ["police car light","police_car_light","police","ambulance","911","emergency","alert","error","pinged","law","legal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6a8";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f49b.png";
 
 export const icon = png;
 export const name = "YellowHeart";
-export const aliases = ["yellow_heart","love","like","affection","valentines"];
+export const aliases = ["yellow heart","yellow_heart","love","like","affection","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f49b";

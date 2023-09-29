@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f317.png";
 
 export const icon = png;
 export const name = "LastQuarterMoon";
-export const aliases = ["last_quarter_moon","nature","twilight","planet","space","night","evening","sleep"];
+export const aliases = ["last quarter moon","last_quarter_moon","nature","twilight","planet","space","night","evening","sleep"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f317";

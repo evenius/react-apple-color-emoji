@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f44f.png";
 
 export const icon = png;
 export const name = "ClappingHands";
-export const aliases = ["clapping_hands","hands","praise","applause","congrats","yay"];
+export const aliases = ["clapping hands","clapping_hands","hands","praise","applause","congrats","yay"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f44f";

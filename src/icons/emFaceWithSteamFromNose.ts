@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f624.png";
 
 export const icon = png;
 export const name = "FaceWithSteamFromNose";
-export const aliases = ["face_with_steam_from_nose","face","gas","phew","proud","pride"];
+export const aliases = ["face with steam from nose","face_with_steam_from_nose","face","gas","phew","proud","pride"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f624";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f63b.png";
 
 export const icon = png;
 export const name = "SmilingCatWithHeartEyes";
-export const aliases = ["smiling_cat_with_heart_eyes","animal","love","like","affection","cats","valentines","heart"];
+export const aliases = ["smiling cat with heart-eyes","smiling_cat_with_heart_eyes","animal","love","like","affection","cats","valentines","heart"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f63b";

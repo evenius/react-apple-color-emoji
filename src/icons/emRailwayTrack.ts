@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6e4.png";
 
 export const icon = png;
 export const name = "RailwayTrack";
-export const aliases = ["railway_track","train","transportation"];
+export const aliases = ["railway track"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6e4";

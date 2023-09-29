@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26f2.png";
 
 export const icon = png;
 export const name = "Fountain";
-export const aliases = ["fountain","photo","summer","water","fresh"];
+export const aliases = ["fountain","fountain","photo","summer","water","fresh"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26f2";

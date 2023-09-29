@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6dd.png";
 
 export const icon = png;
 export const name = "PlaygroundSlide";
-export const aliases = ["playground slide","fun","park"];
+export const aliases = ["playground slide","playground slide","fun","park"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6dd";

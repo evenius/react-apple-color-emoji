@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f450.png";
 
 export const icon = png;
 export const name = "OpenHands";
-export const aliases = ["open_hands","fingers","butterfly","hands","open"];
+export const aliases = ["open hands","open_hands","fingers","butterfly","hands","open"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f450";

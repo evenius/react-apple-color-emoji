@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f344.png";
 
 export const icon = png;
 export const name = "Mushroom";
-export const aliases = ["mushroom","plant","vegetable"];
+export const aliases = ["mushroom","mushroom","plant","vegetable"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f344";

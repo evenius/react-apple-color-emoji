@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f570.png";
 
 export const icon = png;
 export const name = "MantelpieceClock";
-export const aliases = ["mantelpiece_clock","time"];
+export const aliases = ["mantelpiece clock"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f570";

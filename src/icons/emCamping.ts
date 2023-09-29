@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3d5.png";
 
 export const icon = png;
 export const name = "Camping";
-export const aliases = ["camping","photo","outdoors","tent"];
+export const aliases = ["camping"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3d5";

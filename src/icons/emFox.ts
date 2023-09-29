@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f98a.png";
 
 export const icon = png;
 export const name = "Fox";
-export const aliases = ["fox","animal","nature","face"];
+export const aliases = ["fox","fox","animal","nature","face"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f98a";

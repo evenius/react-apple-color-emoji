@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa79.png";
 
 export const icon = png;
 export const name = "AdhesiveBandage";
-export const aliases = ["adhesive_bandage","heal"];
+export const aliases = ["adhesive bandage","adhesive_bandage","heal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa79";

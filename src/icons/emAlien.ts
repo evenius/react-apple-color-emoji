@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f47d.png";
 
 export const icon = png;
 export const name = "Alien";
-export const aliases = ["alien","UFO","paul","weird","outer_space"];
+export const aliases = ["alien","alien","UFO","paul","weird","outer_space"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f47d";

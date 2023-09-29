@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa98.png";
 
 export const icon = png;
 export const name = "LongDrum";
-export const aliases = ["long drum","music"];
+export const aliases = ["long drum","long drum","music"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa98";

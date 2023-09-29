@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f629.png";
 
 export const icon = png;
 export const name = "WearyFace";
-export const aliases = ["weary_face","face","tired","sleepy","sad","frustrated","upset"];
+export const aliases = ["weary face","weary_face","face","tired","sleepy","sad","frustrated","upset"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f629";

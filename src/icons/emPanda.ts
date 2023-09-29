@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f43c.png";
 
 export const icon = png;
 export const name = "Panda";
-export const aliases = ["panda","animal","nature","panda"];
+export const aliases = ["panda","panda","animal","nature","panda"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f43c";

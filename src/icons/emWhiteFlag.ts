@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3f3.png";
 
 export const icon = png;
 export const name = "WhiteFlag";
-export const aliases = ["white_flag","losing","loser","lost","surrender","give up","fail"];
+export const aliases = ["white flag"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3f3";

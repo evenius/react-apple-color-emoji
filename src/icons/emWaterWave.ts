@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f30a.png";
 
 export const icon = png;
 export const name = "WaterWave";
-export const aliases = ["water_wave","sea","water","wave","nature","tsunami","disaster"];
+export const aliases = ["water wave","water_wave","sea","water","wave","nature","tsunami","disaster"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f30a";

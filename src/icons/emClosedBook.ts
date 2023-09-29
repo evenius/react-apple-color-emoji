@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4d5.png";
 
 export const icon = png;
 export const name = "ClosedBook";
-export const aliases = ["closed_book","read","library","knowledge","textbook","learn"];
+export const aliases = ["closed book","closed_book","read","library","knowledge","textbook","learn"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4d5";

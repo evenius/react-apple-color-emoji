@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26c5.png";
 
 export const icon = png;
 export const name = "SunBehindCloud";
-export const aliases = ["sun_behind_cloud","weather","nature","cloudy","morning","fall","spring"];
+export const aliases = ["sun behind cloud","sun_behind_cloud","weather","nature","cloudy","morning","fall","spring"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26c5";

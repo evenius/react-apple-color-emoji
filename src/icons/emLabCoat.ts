@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f97c.png";
 
 export const icon = png;
 export const name = "LabCoat";
-export const aliases = ["lab_coat","doctor","experiment","scientist","chemist"];
+export const aliases = ["lab coat","lab_coat","doctor","experiment","scientist","chemist"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f97c";

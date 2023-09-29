@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4e2.png";
 
 export const icon = png;
 export const name = "Loudspeaker";
-export const aliases = ["loudspeaker","volume","sound"];
+export const aliases = ["loudspeaker","loudspeaker","volume","sound"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4e2";

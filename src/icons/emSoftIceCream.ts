@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f366.png";
 
 export const icon = png;
 export const name = "SoftIceCream";
-export const aliases = ["soft_ice_cream","food","hot","dessert","summer"];
+export const aliases = ["soft ice cream","soft_ice_cream","food","hot","dessert","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f366";

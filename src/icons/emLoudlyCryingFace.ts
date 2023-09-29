@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f62d.png";
 
 export const icon = png;
 export const name = "LoudlyCryingFace";
-export const aliases = ["loudly_crying_face","face","cry","tears","sad","upset","depressed"];
+export const aliases = ["loudly crying face","loudly_crying_face","face","cry","tears","sad","upset","depressed"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f62d";

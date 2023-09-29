@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f38f.png";
 
 export const icon = png;
 export const name = "CarpStreamer";
-export const aliases = ["carp_streamer","fish","japanese","koinobori","carp","banner"];
+export const aliases = ["carp streamer","carp_streamer","fish","japanese","koinobori","carp","banner"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f38f";

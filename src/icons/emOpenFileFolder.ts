@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4c2.png";
 
 export const icon = png;
 export const name = "OpenFileFolder";
-export const aliases = ["open_file_folder","documents","load"];
+export const aliases = ["open file folder","open_file_folder","documents","load"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4c2";

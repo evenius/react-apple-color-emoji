@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f47c.png";
 
 export const icon = png;
 export const name = "BabyAngel";
-export const aliases = ["baby_angel","heaven","wings","halo"];
+export const aliases = ["baby angel","baby_angel","heaven","wings","halo"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f47c";

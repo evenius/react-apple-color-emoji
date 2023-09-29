@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4c6.png";
 
 export const icon = png;
 export const name = "TearOffCalendar";
-export const aliases = ["tear_off_calendar","schedule","date","planning"];
+export const aliases = ["tear-off calendar","tear_off_calendar","schedule","date","planning"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4c6";

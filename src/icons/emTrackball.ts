@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5b2.png";
 
 export const icon = png;
 export const name = "Trackball";
-export const aliases = ["trackball","technology","trackpad"];
+export const aliases = ["trackball"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5b2";

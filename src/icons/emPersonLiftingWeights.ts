@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3cb.png";
 
 export const icon = png;
 export const name = "PersonLiftingWeights";
-export const aliases = ["person_lifting_weights","sports","training","exercise"];
+export const aliases = ["person lifting weights"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3cb";

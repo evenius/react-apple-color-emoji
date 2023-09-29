@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fab8.png";
 
 export const icon = png;
 export const name = "Coral";
-export const aliases = ["coral","ocean","sea","reef"];
+export const aliases = ["coral","coral","ocean","sea","reef"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fab8";

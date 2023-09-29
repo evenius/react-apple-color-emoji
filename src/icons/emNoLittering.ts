@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6af.png";
 
 export const icon = png;
 export const name = "NoLittering";
-export const aliases = ["no_littering","trash","bin","garbage","circle"];
+export const aliases = ["no littering","no_littering","trash","bin","garbage","circle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6af";

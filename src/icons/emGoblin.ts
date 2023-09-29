@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f47a.png";
 
 export const icon = png;
 export const name = "Goblin";
-export const aliases = ["goblin","red","evil","mask","monster","scary","creepy","japanese","goblin"];
+export const aliases = ["goblin","goblin","red","evil","mask","monster","scary","creepy","japanese","goblin"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f47a";

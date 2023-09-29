@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f379.png";
 
 export const icon = png;
 export const name = "TropicalDrink";
-export const aliases = ["tropical_drink","beverage","cocktail","summer","beach","alcohol","booze","mojito"];
+export const aliases = ["tropical drink","tropical_drink","beverage","cocktail","summer","beach","alcohol","booze","mojito"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f379";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f63c.png";
 
 export const icon = png;
 export const name = "CatWithWrySmile";
-export const aliases = ["cat_with_wry_smile","animal","cats","smirk"];
+export const aliases = ["cat with wry smile","cat_with_wry_smile","animal","cats","smirk"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f63c";

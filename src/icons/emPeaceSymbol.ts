@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u262e.png";
 
 export const icon = png;
 export const name = "PeaceSymbol";
-export const aliases = ["peace_symbol","hippie"];
+export const aliases = ["peace symbol"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u262e";

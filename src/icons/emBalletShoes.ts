@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa70.png";
 
 export const icon = png;
 export const name = "BalletShoes";
-export const aliases = ["ballet_shoes","dance"];
+export const aliases = ["ballet shoes","ballet_shoes","dance"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa70";

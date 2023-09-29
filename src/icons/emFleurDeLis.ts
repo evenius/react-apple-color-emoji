@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u269c.png";
 
 export const icon = png;
 export const name = "FleurDeLis";
-export const aliases = ["fleur_de_lis","decorative","scout"];
+export const aliases = ["fleur-de-lis"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u269c";

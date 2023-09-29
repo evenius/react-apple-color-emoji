@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9cd.png";
 
 export const icon = png;
 export const name = "PersonStanding";
-export const aliases = ["person_standing","still"];
+export const aliases = ["person standing","person_standing","still"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9cd";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6f4.png";
 
 export const icon = png;
 export const name = "KickScooter";
-export const aliases = ["kick_scooter","vehicle","kick","razor"];
+export const aliases = ["kick scooter","kick_scooter","vehicle","kick","razor"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6f4";

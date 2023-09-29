@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3d1.png";
 
 export const icon = png;
 export const name = "FieldHockey";
-export const aliases = ["field_hockey","sports"];
+export const aliases = ["field hockey","field_hockey","sports"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3d1";

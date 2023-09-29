@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2638.png";
 
 export const icon = png;
 export const name = "WheelOfDharma";
-export const aliases = ["wheel_of_dharma","hinduism","buddhism","sikhism","jainism"];
+export const aliases = ["wheel of dharma"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2638";

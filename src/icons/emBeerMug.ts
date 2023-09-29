@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f37a.png";
 
 export const icon = png;
 export const name = "BeerMug";
-export const aliases = ["beer_mug","relax","beverage","drink","drunk","party","pub","summer","alcohol","booze"];
+export const aliases = ["beer mug","beer_mug","relax","beverage","drink","drunk","party","pub","summer","alcohol","booze"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f37a";

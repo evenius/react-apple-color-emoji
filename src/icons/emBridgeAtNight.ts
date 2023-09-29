@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f309.png";
 
 export const icon = png;
 export const name = "BridgeAtNight";
-export const aliases = ["bridge_at_night","photo","sanfrancisco"];
+export const aliases = ["bridge at night","bridge_at_night","photo","sanfrancisco"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f309";

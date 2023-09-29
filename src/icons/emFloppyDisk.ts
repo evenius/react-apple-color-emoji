@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4be.png";
 
 export const icon = png;
 export const name = "FloppyDisk";
-export const aliases = ["floppy_disk","oldschool","technology","save","90s","80s"];
+export const aliases = ["floppy disk","floppy_disk","oldschool","technology","save","90s","80s"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4be";

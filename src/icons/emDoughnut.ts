@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f369.png";
 
 export const icon = png;
 export const name = "Doughnut";
-export const aliases = ["doughnut","food","dessert","snack","sweet","donut"];
+export const aliases = ["doughnut","doughnut","food","dessert","snack","sweet","donut"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f369";

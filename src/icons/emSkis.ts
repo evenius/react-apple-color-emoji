@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3bf.png";
 
 export const icon = png;
 export const name = "Skis";
-export const aliases = ["skis","sports","winter","cold","snow"];
+export const aliases = ["skis","skis","sports","winter","cold","snow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3bf";

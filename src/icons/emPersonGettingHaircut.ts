@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f487.png";
 
 export const icon = png;
 export const name = "PersonGettingHaircut";
-export const aliases = ["person_getting_haircut","hairstyle"];
+export const aliases = ["person getting haircut","person_getting_haircut","hairstyle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f487";

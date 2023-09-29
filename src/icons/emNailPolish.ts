@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f485.png";
 
 export const icon = png;
 export const name = "NailPolish";
-export const aliases = ["nail_polish","beauty","manicure","finger","fashion","nail"];
+export const aliases = ["nail polish","nail_polish","beauty","manicure","finger","fashion","nail"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f485";

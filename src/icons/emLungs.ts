@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fac1.png";
 
 export const icon = png;
 export const name = "Lungs";
-export const aliases = ["lungs","breathe"];
+export const aliases = ["lungs","lungs","breathe"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fac1";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4d0.png";
 
 export const icon = png;
 export const name = "TriangularRuler";
-export const aliases = ["triangular_ruler","stationery","math","architect","sketch"];
+export const aliases = ["triangular ruler","triangular_ruler","stationery","math","architect","sketch"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4d0";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f968.png";
 
 export const icon = png;
 export const name = "Pretzel";
-export const aliases = ["pretzel","food","bread","twisted","germany","bakery"];
+export const aliases = ["pretzel","pretzel","food","bread","twisted","germany","bakery"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f968";

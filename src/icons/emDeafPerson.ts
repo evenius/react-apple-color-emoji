@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9cf.png";
 
 export const icon = png;
 export const name = "DeafPerson";
-export const aliases = ["deaf_person","accessibility"];
+export const aliases = ["deaf person","deaf_person","accessibility"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9cf";

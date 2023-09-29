@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u262f.png";
 
 export const icon = png;
 export const name = "YinYang";
-export const aliases = ["yin_yang","balance"];
+export const aliases = ["yin yang"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u262f";

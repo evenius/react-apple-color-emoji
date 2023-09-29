@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26d3.png";
 
 export const icon = png;
 export const name = "Chains";
-export const aliases = ["chains","lock","arrest"];
+export const aliases = ["chains"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26d3";

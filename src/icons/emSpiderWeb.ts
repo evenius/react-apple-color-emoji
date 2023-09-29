@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f578.png";
 
 export const icon = png;
 export const name = "SpiderWeb";
-export const aliases = ["spider_web","animal","insect","arachnid","silk"];
+export const aliases = ["spider web"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f578";

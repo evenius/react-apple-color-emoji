@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f608.png";
 
 export const icon = png;
 export const name = "SmilingFaceWithHorns";
-export const aliases = ["smiling_face_with_horns","devil","horns"];
+export const aliases = ["smiling face with horns","smiling_face_with_horns","devil","horns"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f608";

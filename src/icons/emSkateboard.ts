@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6f9.png";
 
 export const icon = png;
 export const name = "Skateboard";
-export const aliases = ["skateboard","board"];
+export const aliases = ["skateboard","skateboard","board"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6f9";

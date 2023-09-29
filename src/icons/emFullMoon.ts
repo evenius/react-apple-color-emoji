@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f315.png";
 
 export const icon = png;
 export const name = "FullMoon";
-export const aliases = ["full_moon","nature","yellow","twilight","planet","space","night","evening","sleep"];
+export const aliases = ["full moon","full_moon","nature","yellow","twilight","planet","space","night","evening","sleep"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f315";

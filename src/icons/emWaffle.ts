@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9c7.png";
 
 export const icon = png;
 export const name = "Waffle";
-export const aliases = ["waffle","food","breakfast","brunch"];
+export const aliases = ["waffle","waffle","food","breakfast","brunch"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9c7";

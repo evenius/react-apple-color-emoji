@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f994.png";
 
 export const icon = png;
 export const name = "Hedgehog";
-export const aliases = ["hedgehog","animal","nature","spiny"];
+export const aliases = ["hedgehog","hedgehog","animal","nature","spiny"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f994";

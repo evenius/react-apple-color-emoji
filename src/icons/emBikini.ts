@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f459.png";
 
 export const icon = png;
 export const name = "Bikini";
-export const aliases = ["bikini","swimming","female","woman","girl","fashion","beach","summer"];
+export const aliases = ["bikini","bikini","swimming","female","woman","girl","fashion","beach","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f459";

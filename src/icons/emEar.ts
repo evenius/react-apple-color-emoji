@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f442.png";
 
 export const icon = png;
 export const name = "Ear";
-export const aliases = ["ear","face","hear","sound","listen"];
+export const aliases = ["ear","ear","face","hear","sound","listen"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f442";

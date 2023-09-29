@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fabf.png";
 
 export const icon = png;
 export const name = "Goose";
-export const aliases = ["goose","silly","jemima","goosebumps"];
+export const aliases = ["goose","goose","silly","jemima","goosebumps"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fabf";

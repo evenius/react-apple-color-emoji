@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f303.png";
 
 export const icon = png;
 export const name = "NightWithStars";
-export const aliases = ["night_with_stars","evening","city","downtown"];
+export const aliases = ["night with stars","night_with_stars","evening","city","downtown"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f303";

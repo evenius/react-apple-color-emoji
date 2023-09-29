@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f425.png";
 
 export const icon = png;
 export const name = "FrontFacingBabyChick";
-export const aliases = ["front_facing_baby_chick","animal","chicken","baby","bird"];
+export const aliases = ["front-facing baby chick","front_facing_baby_chick","animal","chicken","baby","bird"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f425";

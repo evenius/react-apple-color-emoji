@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fad0.png";
 
 export const icon = png;
 export const name = "Blueberries";
-export const aliases = ["blueberries","fruit"];
+export const aliases = ["blueberries","blueberries","fruit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fad0";

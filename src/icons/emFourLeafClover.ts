@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f340.png";
 
 export const icon = png;
 export const name = "FourLeafClover";
-export const aliases = ["four_leaf_clover","vegetable","plant","nature","lucky","irish"];
+export const aliases = ["four leaf clover","four_leaf_clover","vegetable","plant","nature","lucky","irish"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f340";

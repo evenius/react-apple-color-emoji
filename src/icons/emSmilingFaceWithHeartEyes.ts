@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f60d.png";
 
 export const icon = png;
 export const name = "SmilingFaceWithHeartEyes";
-export const aliases = ["smiling_face_with_heart_eyes","face","love","like","affection","valentines","infatuation","crush","heart"];
+export const aliases = ["smiling face with heart-eyes","smiling_face_with_heart_eyes","face","love","like","affection","valentines","infatuation","crush","heart"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f60d";

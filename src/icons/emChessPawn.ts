@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u265f.png";
 
 export const icon = png;
 export const name = "ChessPawn";
-export const aliases = ["chess_pawn","expendable"];
+export const aliases = ["chess pawn"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u265f";

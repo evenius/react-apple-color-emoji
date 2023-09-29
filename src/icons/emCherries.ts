@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f352.png";
 
 export const icon = png;
 export const name = "Cherries";
-export const aliases = ["cherries","food","fruit"];
+export const aliases = ["cherries","cherries","food","fruit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f352";

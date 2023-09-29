@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f611.png";
 
 export const icon = png;
 export const name = "ExpressionlessFace";
-export const aliases = ["expressionless_face","face","indifferent","-_-","meh","deadpan"];
+export const aliases = ["expressionless face","expressionless_face","face","indifferent","-_-","meh","deadpan"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f611";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3e9.png";
 
 export const icon = png;
 export const name = "LoveHotel";
-export const aliases = ["love_hotel","like","affection","dating"];
+export const aliases = ["love hotel","love_hotel","like","affection","dating"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3e9";

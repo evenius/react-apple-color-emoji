@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f64d.png";
 
 export const icon = png;
 export const name = "PersonFrowning";
-export const aliases = ["person_frowning","worried"];
+export const aliases = ["person frowning","person_frowning","worried"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f64d";

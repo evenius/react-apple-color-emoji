@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa74.png";
 
 export const icon = png;
 export const name = "ThongSandal";
-export const aliases = ["thong sandal","footwear","summer"];
+export const aliases = ["thong sandal","thong sandal","footwear","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa74";

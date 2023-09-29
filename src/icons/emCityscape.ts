@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3d9.png";
 
 export const icon = png;
 export const name = "Cityscape";
-export const aliases = ["cityscape","photo","night life","urban"];
+export const aliases = ["cityscape"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3d9";

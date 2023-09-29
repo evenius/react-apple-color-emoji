@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2651.png";
 
 export const icon = png;
 export const name = "Capricorn";
-export const aliases = ["capricorn","sign","zodiac","purple-square","astrology"];
+export const aliases = ["Capricorn","capricorn","sign","zodiac","purple-square","astrology"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2651";

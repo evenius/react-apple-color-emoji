@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3b0.png";
 
 export const icon = png;
 export const name = "SlotMachine";
-export const aliases = ["slot_machine","bet","gamble","vegas","fruit machine","luck","casino"];
+export const aliases = ["slot machine","slot_machine","bet","gamble","vegas","fruit machine","luck","casino"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3b0";

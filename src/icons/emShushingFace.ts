@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f92b.png";
 
 export const icon = png;
 export const name = "ShushingFace";
-export const aliases = ["shushing_face","face","quiet","shhh"];
+export const aliases = ["shushing face","shushing_face","face","quiet","shhh"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f92b";

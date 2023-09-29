@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f52d.png";
 
 export const icon = png;
 export const name = "Telescope";
-export const aliases = ["telescope","stars","space","zoom","science","astronomy"];
+export const aliases = ["telescope","telescope","stars","space","zoom","science","astronomy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f52d";

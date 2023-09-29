@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u267e.png";
 
 export const icon = png;
 export const name = "Infinity";
-export const aliases = ["infinity","forever"];
+export const aliases = ["infinity"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u267e";

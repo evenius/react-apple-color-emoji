@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f7e2.png";
 
 export const icon = png;
 export const name = "GreenCircle";
-export const aliases = ["green_circle","round"];
+export const aliases = ["green circle","green_circle","round"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f7e2";

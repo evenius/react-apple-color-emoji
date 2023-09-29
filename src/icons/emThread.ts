@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9f5.png";
 
 export const icon = png;
 export const name = "Thread";
-export const aliases = ["thread","needle","sewing","spool","string"];
+export const aliases = ["thread","thread","needle","sewing","spool","string"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9f5";

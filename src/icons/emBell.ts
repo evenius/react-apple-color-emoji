@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f514.png";
 
 export const icon = png;
 export const name = "Bell";
-export const aliases = ["bell","sound","notification","christmas","xmas","chime"];
+export const aliases = ["bell","bell","sound","notification","christmas","xmas","chime"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f514";

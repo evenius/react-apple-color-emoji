@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5d2.png";
 
 export const icon = png;
 export const name = "SpiralNotepad";
-export const aliases = ["spiral_notepad","memo","stationery"];
+export const aliases = ["spiral notepad"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5d2";

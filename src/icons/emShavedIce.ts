@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f367.png";
 
 export const icon = png;
 export const name = "ShavedIce";
-export const aliases = ["shaved_ice","hot","dessert","summer"];
+export const aliases = ["shaved ice","shaved_ice","hot","dessert","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f367";

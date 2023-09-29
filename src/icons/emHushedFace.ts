@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f62f.png";
 
 export const icon = png;
 export const name = "HushedFace";
-export const aliases = ["hushed_face","face","woo","shh"];
+export const aliases = ["hushed face","hushed_face","face","woo","shh"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f62f";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6a5.png";
 
 export const icon = png;
 export const name = "HorizontalTrafficLight";
-export const aliases = ["horizontal_traffic_light","transportation","signal"];
+export const aliases = ["horizontal traffic light","horizontal_traffic_light","transportation","signal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6a5";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f41e.png";
 
 export const icon = png;
 export const name = "LadyBeetle";
-export const aliases = ["lady_beetle","animal","insect","nature","ladybug"];
+export const aliases = ["lady beetle","lady_beetle","animal","insect","nature","ladybug"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f41e";

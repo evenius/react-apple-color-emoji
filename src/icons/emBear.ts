@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f43b.png";
 
 export const icon = png;
 export const name = "Bear";
-export const aliases = ["bear","animal","nature","wild"];
+export const aliases = ["bear","bear","animal","nature","wild"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f43b";

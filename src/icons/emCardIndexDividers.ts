@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5c2.png";
 
 export const icon = png;
 export const name = "CardIndexDividers";
-export const aliases = ["card_index_dividers","organizing","business","stationery"];
+export const aliases = ["card index dividers"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5c2";

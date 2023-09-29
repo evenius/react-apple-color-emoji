@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f50c.png";
 
 export const icon = png;
 export const name = "ElectricPlug";
-export const aliases = ["electric_plug","charger","power"];
+export const aliases = ["electric plug","electric_plug","charger","power"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f50c";

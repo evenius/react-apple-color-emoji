@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f356.png";
 
 export const icon = png;
 export const name = "MeatOnBone";
-export const aliases = ["meat_on_bone","good","food","drumstick"];
+export const aliases = ["meat on bone","meat_on_bone","good","food","drumstick"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f356";

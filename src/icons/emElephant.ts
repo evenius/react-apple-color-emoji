@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f418.png";
 
 export const icon = png;
 export const name = "Elephant";
-export const aliases = ["elephant","animal","nature","nose","th","circus"];
+export const aliases = ["elephant","elephant","animal","nature","nose","th","circus"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f418";

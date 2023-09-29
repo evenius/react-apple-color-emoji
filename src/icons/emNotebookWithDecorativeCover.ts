@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4d4.png";
 
 export const icon = png;
 export const name = "NotebookWithDecorativeCover";
-export const aliases = ["notebook_with_decorative_cover","classroom","notes","record","paper","study"];
+export const aliases = ["notebook with decorative cover","notebook_with_decorative_cover","classroom","notes","record","paper","study"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4d4";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f2.png";
 
 export const icon = png;
 export const name = "MobilePhoneWithArrow";
-export const aliases = ["mobile_phone_with_arrow","iphone","incoming"];
+export const aliases = ["mobile phone with arrow","mobile_phone_with_arrow","iphone","incoming"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f2";

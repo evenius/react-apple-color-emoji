@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f338.png";
 
 export const icon = png;
 export const name = "CherryBlossom";
-export const aliases = ["cherry_blossom","nature","plant","spring","flower"];
+export const aliases = ["cherry blossom","cherry_blossom","nature","plant","spring","flower"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f338";

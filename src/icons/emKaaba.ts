@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f54b.png";
 
 export const icon = png;
 export const name = "Kaaba";
-export const aliases = ["kaaba","mecca","mosque","islam"];
+export const aliases = ["kaaba","kaaba","mecca","mosque","islam"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f54b";

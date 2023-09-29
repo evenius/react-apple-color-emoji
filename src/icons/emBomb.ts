@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a3.png";
 
 export const icon = png;
 export const name = "Bomb";
-export const aliases = ["bomb","boom","explode","explosion","terrorism"];
+export const aliases = ["bomb","bomb","boom","explode","explosion","terrorism"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a3";

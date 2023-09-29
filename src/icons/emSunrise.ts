@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f305.png";
 
 export const icon = png;
 export const name = "Sunrise";
-export const aliases = ["sunrise","morning","view","vacation","photo"];
+export const aliases = ["sunrise","sunrise","morning","view","vacation","photo"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f305";

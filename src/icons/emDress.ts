@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f457.png";
 
 export const icon = png;
 export const name = "Dress";
-export const aliases = ["dress","clothes","fashion","shopping"];
+export const aliases = ["dress","dress","clothes","fashion","shopping"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f457";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f346.png";
 
 export const icon = png;
 export const name = "Eggplant";
-export const aliases = ["eggplant","vegetable","nature","food","aubergine"];
+export const aliases = ["eggplant","eggplant","vegetable","nature","food","aubergine"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f346";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3ad.png";
 
 export const icon = png;
 export const name = "PerformingArts";
-export const aliases = ["performing_arts","acting","theater","drama"];
+export const aliases = ["performing arts","performing_arts","acting","theater","drama"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3ad";

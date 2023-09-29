@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f429.png";
 
 export const icon = png;
 export const name = "Poodle";
-export const aliases = ["poodle","dog","animal","101","nature","pet"];
+export const aliases = ["poodle","poodle","dog","animal","101","nature","pet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f429";

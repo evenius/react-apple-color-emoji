@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2652.png";
 
 export const icon = png;
 export const name = "Aquarius";
-export const aliases = ["aquarius","sign","purple-square","zodiac","astrology"];
+export const aliases = ["Aquarius","aquarius","sign","purple-square","zodiac","astrology"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2652";

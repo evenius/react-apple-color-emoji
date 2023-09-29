@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f515.png";
 
 export const icon = png;
 export const name = "BellWithSlash";
-export const aliases = ["bell_with_slash","sound","volume","mute","quiet","silent"];
+export const aliases = ["bell with slash","bell_with_slash","sound","volume","mute","quiet","silent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f515";

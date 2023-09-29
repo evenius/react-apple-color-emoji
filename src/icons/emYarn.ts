@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9f6.png";
 
 export const icon = png;
 export const name = "Yarn";
-export const aliases = ["yarn","ball","crochet","knit"];
+export const aliases = ["yarn","yarn","ball","crochet","knit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9f6";

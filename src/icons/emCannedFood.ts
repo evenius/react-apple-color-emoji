@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f96b.png";
 
 export const icon = png;
 export const name = "CannedFood";
-export const aliases = ["canned_food","food","soup","tomatoes"];
+export const aliases = ["canned food","canned_food","food","soup","tomatoes"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f96b";

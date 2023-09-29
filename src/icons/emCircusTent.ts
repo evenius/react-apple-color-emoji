@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3aa.png";
 
 export const icon = png;
 export const name = "CircusTent";
-export const aliases = ["circus_tent","festival","carnival","party"];
+export const aliases = ["circus tent","circus_tent","festival","carnival","party"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3aa";

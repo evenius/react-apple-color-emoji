@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f381.png";
 
 export const icon = png;
 export const name = "WrappedGift";
-export const aliases = ["wrapped_gift","present","birthday","christmas","xmas"];
+export const aliases = ["wrapped gift","wrapped_gift","present","birthday","christmas","xmas"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f381";

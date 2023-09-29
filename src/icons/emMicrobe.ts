@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9a0.png";
 
 export const icon = png;
 export const name = "Microbe";
-export const aliases = ["microbe","amoeba","bacteria","germs","virus","covid"];
+export const aliases = ["microbe","microbe","amoeba","bacteria","germs","virus","covid"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9a0";

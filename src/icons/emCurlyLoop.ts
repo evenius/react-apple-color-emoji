@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u27b0.png";
 
 export const icon = png;
 export const name = "CurlyLoop";
-export const aliases = ["curly_loop","scribble","draw","shape","squiggle"];
+export const aliases = ["curly loop","curly_loop","scribble","draw","shape","squiggle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u27b0";

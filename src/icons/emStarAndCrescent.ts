@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u262a.png";
 
 export const icon = png;
 export const name = "StarAndCrescent";
-export const aliases = ["star_and_crescent","islam"];
+export const aliases = ["star and crescent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u262a";

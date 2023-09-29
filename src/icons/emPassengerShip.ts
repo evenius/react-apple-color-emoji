@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6f3.png";
 
 export const icon = png;
 export const name = "PassengerShip";
-export const aliases = ["passenger_ship","yacht","cruise","ferry"];
+export const aliases = ["passenger ship"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6f3";

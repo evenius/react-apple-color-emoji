@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f97f.png";
 
 export const icon = png;
 export const name = "FlatShoe";
-export const aliases = ["flat_shoe","ballet","slip-on","slipper"];
+export const aliases = ["flat shoe","flat_shoe","ballet","slip-on","slipper"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f97f";

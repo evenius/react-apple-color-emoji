@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2708.png";
 
 export const icon = png;
 export const name = "Airplane";
-export const aliases = ["airplane","vehicle","transportation","flight","fly"];
+export const aliases = ["airplane"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2708";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f365.png";
 
 export const icon = png;
 export const name = "FishCakeWithSwirl";
-export const aliases = ["fish_cake_with_swirl","food","japan","sea","beach","narutomaki","pink","swirl","kamaboko","surimi","ramen"];
+export const aliases = ["fish cake with swirl","fish_cake_with_swirl","food","japan","sea","beach","narutomaki","pink","swirl","kamaboko","surimi","ramen"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f365";

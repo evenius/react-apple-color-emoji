@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u267f.png";
 
 export const icon = png;
 export const name = "WheelchairSymbol";
-export const aliases = ["wheelchair_symbol","blue-square","disabled","accessibility"];
+export const aliases = ["wheelchair symbol","wheelchair_symbol","blue-square","disabled","accessibility"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u267f";

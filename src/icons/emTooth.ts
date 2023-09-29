@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9b7.png";
 
 export const icon = png;
 export const name = "Tooth";
-export const aliases = ["tooth","teeth","dentist"];
+export const aliases = ["tooth","tooth","teeth","dentist"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9b7";

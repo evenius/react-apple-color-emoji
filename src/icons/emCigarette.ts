@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6ac.png";
 
 export const icon = png;
 export const name = "Cigarette";
-export const aliases = ["cigarette","kills","tobacco","cigarette","joint","smoke"];
+export const aliases = ["cigarette","cigarette","kills","tobacco","cigarette","joint","smoke"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6ac";

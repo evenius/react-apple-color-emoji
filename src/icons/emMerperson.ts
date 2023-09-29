@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9dc.png";
 
 export const icon = png;
 export const name = "Merperson";
-export const aliases = ["merperson","sea"];
+export const aliases = ["merperson","merperson","sea"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9dc";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23ee.png";
 
 export const icon = png;
 export const name = "LastTrackButton";
-export const aliases = ["last_track_button","backward"];
+export const aliases = ["last track button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23ee";

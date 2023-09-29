@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa71.png";
 
 export const icon = png;
 export const name = "OnePieceSwimsuit";
-export const aliases = ["one_piece_swimsuit","fashion"];
+export const aliases = ["one-piece swimsuit","one_piece_swimsuit","fashion"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa71";

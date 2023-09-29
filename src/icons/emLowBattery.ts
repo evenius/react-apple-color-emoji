@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faab.png";
 
 export const icon = png;
 export const name = "LowBattery";
-export const aliases = ["low battery","drained","dead"];
+export const aliases = ["low battery","low battery","drained","dead"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faab";

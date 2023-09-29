@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f7e1.png";
 
 export const icon = png;
 export const name = "YellowCircle";
-export const aliases = ["yellow_circle","round"];
+export const aliases = ["yellow circle","yellow_circle","round"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f7e1";

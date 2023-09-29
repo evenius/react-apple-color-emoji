@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u231a.png";
 
 export const icon = png;
 export const name = "Watch";
-export const aliases = ["watch","time","accessories"];
+export const aliases = ["watch","watch","time","accessories"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u231a";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fac5.png";
 
 export const icon = png;
 export const name = "PersonWithCrown";
-export const aliases = ["person with crown","royalty","power"];
+export const aliases = ["person with crown","person with crown","royalty","power"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fac5";

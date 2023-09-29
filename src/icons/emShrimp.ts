@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f990.png";
 
 export const icon = png;
 export const name = "Shrimp";
-export const aliases = ["shrimp","animal","ocean","nature","seafood"];
+export const aliases = ["shrimp","shrimp","animal","ocean","nature","seafood"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f990";

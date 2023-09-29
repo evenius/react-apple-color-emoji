@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f61a.png";
 
 export const icon = png;
 export const name = "KissingFaceWithClosedEyes";
-export const aliases = ["kissing_face_with_closed_eyes","face","love","like","affection","valentines","infatuation","kiss"];
+export const aliases = ["kissing face with closed eyes","kissing_face_with_closed_eyes","face","love","like","affection","valentines","infatuation","kiss"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f61a";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f453.png";
 
 export const icon = png;
 export const name = "Glasses";
-export const aliases = ["glasses","fashion","accessories","eyesight","nerdy","dork","geek"];
+export const aliases = ["glasses","glasses","fashion","accessories","eyesight","nerdy","dork","geek"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f453";

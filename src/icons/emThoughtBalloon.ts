@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4ad.png";
 
 export const icon = png;
 export const name = "ThoughtBalloon";
-export const aliases = ["thought_balloon","bubble","cloud","speech","thinking","dream"];
+export const aliases = ["thought balloon","thought_balloon","bubble","cloud","speech","thinking","dream"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4ad";

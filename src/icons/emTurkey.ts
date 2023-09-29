@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f983.png";
 
 export const icon = png;
 export const name = "Turkey";
-export const aliases = ["turkey","animal","bird"];
+export const aliases = ["turkey","turkey","animal","bird"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f983";

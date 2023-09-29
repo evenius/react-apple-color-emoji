@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f54c.png";
 
 export const icon = png;
 export const name = "Mosque";
-export const aliases = ["mosque","islam","worship","minaret"];
+export const aliases = ["mosque","mosque","islam","worship","minaret"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f54c";

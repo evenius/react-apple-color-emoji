@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f237.png";
 
 export const icon = png;
 export const name = "JapaneseMonthlyAmountButton";
-export const aliases = ["japanese_monthly_amount_button","chinese","month","moon","japanese","orange-square","kanji"];
+export const aliases = ["Japanese “monthly amount” button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f237";

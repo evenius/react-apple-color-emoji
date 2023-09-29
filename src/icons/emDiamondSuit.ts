@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2666.png";
 
 export const icon = png;
 export const name = "DiamondSuit";
-export const aliases = ["diamond_suit","poker","cards","magic","suits"];
+export const aliases = ["diamond suit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2666";

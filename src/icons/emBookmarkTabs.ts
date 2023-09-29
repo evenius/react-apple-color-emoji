@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4d1.png";
 
 export const icon = png;
 export const name = "BookmarkTabs";
-export const aliases = ["bookmark_tabs","favorite","save","order","tidy"];
+export const aliases = ["bookmark tabs","bookmark_tabs","favorite","save","order","tidy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4d1";

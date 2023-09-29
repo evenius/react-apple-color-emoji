@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f0.png";
 
 export const icon = png;
 export const name = "Newspaper";
-export const aliases = ["newspaper","press","headline"];
+export const aliases = ["newspaper","newspaper","press","headline"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f0";

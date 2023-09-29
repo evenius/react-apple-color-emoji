@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3ce.png";
 
 export const icon = png;
 export const name = "RacingCar";
-export const aliases = ["racing_car","sports","race","fast","formula","f1"];
+export const aliases = ["racing car"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3ce";

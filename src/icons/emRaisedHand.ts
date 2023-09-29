@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u270b.png";
 
 export const icon = png;
 export const name = "RaisedHand";
-export const aliases = ["raised_hand","fingers","stop","highfive","palm","ban"];
+export const aliases = ["raised hand","raised_hand","fingers","stop","highfive","palm","ban"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u270b";

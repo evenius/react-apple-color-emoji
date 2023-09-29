@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f969.png";
 
 export const icon = png;
 export const name = "CutOfMeat";
-export const aliases = ["cut_of_meat","food","cow","meat","cut","chop","lambchop","porkchop"];
+export const aliases = ["cut of meat","cut_of_meat","food","cow","meat","cut","chop","lambchop","porkchop"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f969";

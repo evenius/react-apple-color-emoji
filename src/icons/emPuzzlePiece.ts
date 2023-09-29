@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9e9.png";
 
 export const icon = png;
 export const name = "PuzzlePiece";
-export const aliases = ["puzzle_piece","interlocking","puzzle","piece"];
+export const aliases = ["puzzle piece","puzzle_piece","interlocking","puzzle","piece"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9e9";

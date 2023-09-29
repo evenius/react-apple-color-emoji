@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26e9.png";
 
 export const icon = png;
 export const name = "ShintoShrine";
-export const aliases = ["shinto_shrine","temple","japan","kyoto"];
+export const aliases = ["shinto shrine"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26e9";

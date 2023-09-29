@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f7e7.png";
 
 export const icon = png;
 export const name = "OrangeSquare";
-export const aliases = ["orange_square"];
+export const aliases = ["orange square","orange_square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f7e7";

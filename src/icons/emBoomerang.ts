@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa83.png";
 
 export const icon = png;
 export const name = "Boomerang";
-export const aliases = ["boomerang","weapon"];
+export const aliases = ["boomerang","boomerang","weapon"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa83";

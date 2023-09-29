@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26f5.png";
 
 export const icon = png;
 export const name = "Sailboat";
-export const aliases = ["sailboat","ship","summer","transportation","water","sailing"];
+export const aliases = ["sailboat","sailboat","ship","summer","transportation","water","sailing"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26f5";

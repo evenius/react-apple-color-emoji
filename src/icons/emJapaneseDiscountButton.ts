@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f239.png";
 
 export const icon = png;
 export const name = "JapaneseDiscountButton";
-export const aliases = ["japanese_discount_button","cut","divide","chinese","kanji","pink-square"];
+export const aliases = ["Japanese “discount” button","japanese_discount_button","cut","divide","chinese","kanji","pink-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f239";

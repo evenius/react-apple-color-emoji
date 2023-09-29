@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2049.png";
 
 export const icon = png;
 export const name = "ExclamationQuestionMark";
-export const aliases = ["exclamation_question_mark","wat","punctuation","surprise"];
+export const aliases = ["exclamation question mark"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2049";

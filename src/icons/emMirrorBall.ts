@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faa9.png";
 
 export const icon = png;
 export const name = "MirrorBall";
-export const aliases = ["mirror ball","disco","dance","party"];
+export const aliases = ["mirror ball","mirror ball","disco","dance","party"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faa9";

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "lib": ["ESNext", "dom"],
+    "target": "ES2021",
+    "declaration": true,
+    "rootDir": "./",
+    "baseUrl": "./",
+    "types": ["node", "../src/types.d.ts"],
+  },
+  "include": ["src"]
+}

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f563.png";
 
 export const icon = png;
 export const name = "EightThirty";
-export const aliases = ["eight_thirty","8:30","830","20:30","2030","time","late","early","schedule"];
+export const aliases = ["eight-thirty","eight_thirty","8:30","830","20:30","2030","time","late","early","schedule"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f563";

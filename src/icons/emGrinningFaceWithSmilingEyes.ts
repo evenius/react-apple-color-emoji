@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f604.png";
 
 export const icon = png;
 export const name = "GrinningFaceWithSmilingEyes";
-export const aliases = ["grinning_face_with_smiling_eyes","face","happy","joy","funny","haha","laugh","like",":D",":)","smile"];
+export const aliases = ["grinning face with smiling eyes","grinning_face_with_smiling_eyes","face","happy","joy","funny","haha","laugh","like",":D",":)","smile"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f604";

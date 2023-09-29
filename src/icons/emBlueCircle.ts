@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f535.png";
 
 export const icon = png;
 export const name = "BlueCircle";
-export const aliases = ["blue_circle","shape","icon","button"];
+export const aliases = ["blue circle","blue_circle","shape","icon","button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f535";

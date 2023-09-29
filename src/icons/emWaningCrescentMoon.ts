@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f318.png";
 
 export const icon = png;
 export const name = "WaningCrescentMoon";
-export const aliases = ["waning_crescent_moon","nature","twilight","planet","space","night","evening","sleep"];
+export const aliases = ["waning crescent moon","waning_crescent_moon","nature","twilight","planet","space","night","evening","sleep"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f318";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u3030.png";
 
 export const icon = png;
 export const name = "WavyDash";
-export const aliases = ["wavy_dash","draw","line","moustache","mustache","squiggle","scribble"];
+export const aliases = ["wavy dash"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u3030";

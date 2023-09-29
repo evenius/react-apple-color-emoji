@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f40e.png";
 
 export const icon = png;
 export const name = "Horse";
-export const aliases = ["horse","animal","gamble","luck"];
+export const aliases = ["horse","horse","animal","gamble","luck"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f40e";

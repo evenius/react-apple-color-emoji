@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5fa.png";
 
 export const icon = png;
 export const name = "WorldMap";
-export const aliases = ["world_map","location","direction"];
+export const aliases = ["world map"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5fa";

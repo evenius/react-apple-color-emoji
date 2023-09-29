@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3ae.png";
 
 export const icon = png;
 export const name = "VideoGame";
-export const aliases = ["video_game","play","console","PS4","controller"];
+export const aliases = ["video game","video_game","play","console","PS4","controller"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3ae";

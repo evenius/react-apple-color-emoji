@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f517.png";
 
 export const icon = png;
 export const name = "Link";
-export const aliases = ["link","rings","url"];
+export const aliases = ["link","link","rings","url"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f517";

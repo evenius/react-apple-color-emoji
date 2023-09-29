@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa7b.png";
 
 export const icon = png;
 export const name = "XRay";
-export const aliases = ["x-ray","skeleton","medicine"];
+export const aliases = ["x-ray","x-ray","skeleton","medicine"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa7b";

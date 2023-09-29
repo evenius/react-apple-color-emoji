@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f99f.png";
 
 export const icon = png;
 export const name = "Mosquito";
-export const aliases = ["mosquito","animal","nature","insect","malaria"];
+export const aliases = ["mosquito","mosquito","animal","nature","insect","malaria"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f99f";

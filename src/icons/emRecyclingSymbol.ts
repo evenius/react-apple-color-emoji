@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u267b.png";
 
 export const icon = png;
 export const name = "RecyclingSymbol";
-export const aliases = ["recycling_symbol","arrow","environment","garbage","trash"];
+export const aliases = ["recycling symbol"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u267b";

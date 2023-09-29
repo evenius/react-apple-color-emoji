@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3bd.png";
 
 export const icon = png;
 export const name = "RunningShirt";
-export const aliases = ["running_shirt","play","pageant"];
+export const aliases = ["running shirt","running_shirt","play","pageant"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3bd";

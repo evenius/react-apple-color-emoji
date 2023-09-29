@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3c4.png";
 
 export const icon = png;
 export const name = "PersonSurfing";
-export const aliases = ["person_surfing","sport","sea"];
+export const aliases = ["person surfing","person_surfing","sport","sea"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3c4";

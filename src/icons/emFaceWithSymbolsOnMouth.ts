@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f92c.png";
 
 export const icon = png;
 export const name = "FaceWithSymbolsOnMouth";
-export const aliases = ["face_with_symbols_on_mouth","face","swearing","cursing","cussing","profanity","expletive"];
+export const aliases = ["face with symbols on mouth","face_with_symbols_on_mouth","face","swearing","cursing","cussing","profanity","expletive"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f92c";

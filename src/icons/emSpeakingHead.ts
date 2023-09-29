@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5e3.png";
 
 export const icon = png;
 export const name = "SpeakingHead";
-export const aliases = ["speaking_head","user","person","human","sing","say","talk"];
+export const aliases = ["speaking head"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5e3";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f23a.png";
 
 export const icon = png;
 export const name = "JapaneseOpenForBusinessButton";
-export const aliases = ["japanese_open_for_business_button","japanese","opening hours","orange-square"];
+export const aliases = ["Japanese “open for business” button","japanese_open_for_business_button","japanese","opening hours","orange-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f23a";

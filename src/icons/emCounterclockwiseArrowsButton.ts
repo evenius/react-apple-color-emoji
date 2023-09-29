@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f504.png";
 
 export const icon = png;
 export const name = "CounterclockwiseArrowsButton";
-export const aliases = ["counterclockwise_arrows_button","blue-square","sync","cycle"];
+export const aliases = ["counterclockwise arrows button","counterclockwise_arrows_button","blue-square","sync","cycle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f504";

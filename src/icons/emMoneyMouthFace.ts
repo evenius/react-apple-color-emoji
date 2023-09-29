@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f911.png";
 
 export const icon = png;
 export const name = "MoneyMouthFace";
-export const aliases = ["money_mouth_face","face","rich","dollar","money"];
+export const aliases = ["money-mouth face","money_mouth_face","face","rich","dollar","money"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f911";

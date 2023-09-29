@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faf5.png";
 
 export const icon = png;
 export const name = "IndexPointingAtTheViewer";
-export const aliases = ["index pointing at the viewer","you","recruit"];
+export const aliases = ["index pointing at the viewer","index pointing at the viewer","you","recruit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faf5";

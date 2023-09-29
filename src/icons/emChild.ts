@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9d2.png";
 
 export const icon = png;
 export const name = "Child";
-export const aliases = ["child","gender-neutral","young"];
+export const aliases = ["child","child","gender-neutral","young"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9d2";

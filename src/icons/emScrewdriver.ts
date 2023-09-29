@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa9b.png";
 
 export const icon = png;
 export const name = "Screwdriver";
-export const aliases = ["screwdriver","tools"];
+export const aliases = ["screwdriver","screwdriver","tools"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa9b";

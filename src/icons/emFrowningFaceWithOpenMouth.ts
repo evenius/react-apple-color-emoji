@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f626.png";
 
 export const icon = png;
 export const name = "FrowningFaceWithOpenMouth";
-export const aliases = ["frowning_face_with_open_mouth","face","aw","what"];
+export const aliases = ["frowning face with open mouth","frowning_face_with_open_mouth","face","aw","what"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f626";

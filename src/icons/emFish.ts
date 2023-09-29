@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f41f.png";
 
 export const icon = png;
 export const name = "Fish";
-export const aliases = ["fish","animal","food","nature"];
+export const aliases = ["fish","fish","animal","food","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f41f";

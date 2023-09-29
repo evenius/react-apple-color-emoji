@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f595.png";
 
 export const icon = png;
 export const name = "MiddleFinger";
-export const aliases = ["middle_finger","hand","fingers","rude","middle","flipping"];
+export const aliases = ["middle finger","middle_finger","hand","fingers","rude","middle","flipping"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f595";

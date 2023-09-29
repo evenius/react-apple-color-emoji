@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f387.png";
 
 export const icon = png;
 export const name = "Sparkler";
-export const aliases = ["sparkler","stars","night","shine"];
+export const aliases = ["sparkler","sparkler","stars","night","shine"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f387";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4af.png";
 
 export const icon = png;
 export const name = "HundredPoints";
-export const aliases = ["hundred_points","score","perfect","numbers","century","exam","quiz","test","pass","hundred"];
+export const aliases = ["hundred points","hundred_points","score","perfect","numbers","century","exam","quiz","test","pass","hundred"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4af";

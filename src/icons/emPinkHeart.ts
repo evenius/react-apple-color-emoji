@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa77.png";
 
 export const icon = png;
 export const name = "PinkHeart";
-export const aliases = ["pink heart","valentines"];
+export const aliases = ["pink heart","pink heart","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa77";

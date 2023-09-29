@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f53c.png";
 
 export const icon = png;
 export const name = "UpwardsButton";
-export const aliases = ["upwards_button","blue-square","triangle","direction","point","forward","top"];
+export const aliases = ["upwards button","upwards_button","blue-square","triangle","direction","point","forward","top"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f53c";

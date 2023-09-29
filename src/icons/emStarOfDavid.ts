@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2721.png";
 
 export const icon = png;
 export const name = "StarOfDavid";
-export const aliases = ["star_of_david","judaism"];
+export const aliases = ["star of David"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2721";

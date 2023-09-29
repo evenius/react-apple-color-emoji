@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fab5.png";
 
 export const icon = png;
 export const name = "Wood";
-export const aliases = ["wood","nature","timber","trunk"];
+export const aliases = ["wood","wood","nature","timber","trunk"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fab5";

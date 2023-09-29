@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa80.png";
 
 export const icon = png;
 export const name = "YoYo";
-export const aliases = ["yo_yo","toy"];
+export const aliases = ["yo-yo","yo_yo","toy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa80";

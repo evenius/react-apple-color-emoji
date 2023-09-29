@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u3299.png";
 
 export const icon = png;
 export const name = "JapaneseSecretButton";
-export const aliases = ["japanese_secret_button","privacy","chinese","sshh","kanji","red-circle"];
+export const aliases = ["Japanese “secret” button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u3299";

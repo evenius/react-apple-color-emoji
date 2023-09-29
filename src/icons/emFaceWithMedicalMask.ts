@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f637.png";
 
 export const icon = png;
 export const name = "FaceWithMedicalMask";
-export const aliases = ["face_with_medical_mask","face","sick","ill","disease","covid"];
+export const aliases = ["face with medical mask","face_with_medical_mask","face","sick","ill","disease","covid"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f637";

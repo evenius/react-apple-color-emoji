@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4c8.png";
 
 export const icon = png;
 export const name = "ChartIncreasing";
-export const aliases = ["chart_increasing","graph","presentation","stats","recovery","business","economics","money","sales","good","success"];
+export const aliases = ["chart increasing","chart_increasing","graph","presentation","stats","recovery","business","economics","money","sales","good","success"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4c8";

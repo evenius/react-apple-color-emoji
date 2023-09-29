@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26b1.png";
 
 export const icon = png;
 export const name = "FuneralUrn";
-export const aliases = ["funeral_urn","dead","die","death","rip","ashes"];
+export const aliases = ["funeral urn"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26b1";

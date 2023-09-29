@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2b1b.png";
 
 export const icon = png;
 export const name = "BlackLargeSquare";
-export const aliases = ["black_large_square","shape","icon","button"];
+export const aliases = ["black large square","black_large_square","shape","icon","button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2b1b";

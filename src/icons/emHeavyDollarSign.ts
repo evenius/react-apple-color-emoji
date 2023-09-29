@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4b2.png";
 
 export const icon = png;
 export const name = "HeavyDollarSign";
-export const aliases = ["heavy_dollar_sign","money","sales","payment","currency","buck"];
+export const aliases = ["heavy dollar sign","heavy_dollar_sign","money","sales","payment","currency","buck"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4b2";

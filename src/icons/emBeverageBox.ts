@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9c3.png";
 
 export const icon = png;
 export const name = "BeverageBox";
-export const aliases = ["beverage_box","drink"];
+export const aliases = ["beverage box","beverage_box","drink"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9c3";

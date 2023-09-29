@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5fd.png";
 
 export const icon = png;
 export const name = "StatueOfLiberty";
-export const aliases = ["statue_of_liberty","american","newyork"];
+export const aliases = ["Statue of Liberty","statue_of_liberty","american","newyork"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5fd";

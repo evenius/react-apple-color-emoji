@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f53a.png";
 
 export const icon = png;
 export const name = "RedTrianglePointedUp";
-export const aliases = ["red_triangle_pointed_up","shape","direction","up","top"];
+export const aliases = ["red triangle pointed up","red_triangle_pointed_up","shape","direction","up","top"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f53a";

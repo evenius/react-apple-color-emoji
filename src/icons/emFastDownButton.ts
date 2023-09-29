@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u23ec.png";
 
 export const icon = png;
 export const name = "FastDownButton";
-export const aliases = ["fast_down_button","blue-square","direction","bottom"];
+export const aliases = ["fast down button","fast_down_button","blue-square","direction","bottom"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u23ec";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4e5.png";
 
 export const icon = png;
 export const name = "InboxTray";
-export const aliases = ["inbox_tray","email","documents"];
+export const aliases = ["inbox tray","inbox_tray","email","documents"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4e5";

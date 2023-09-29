@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f69a.png";
 
 export const icon = png;
 export const name = "DeliveryTruck";
-export const aliases = ["delivery_truck","cars","transportation"];
+export const aliases = ["delivery truck","delivery_truck","cars","transportation"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f69a";

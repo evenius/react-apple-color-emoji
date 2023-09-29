@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6b8.png";
 
 export const icon = png;
 export const name = "ChildrenCrossing";
-export const aliases = ["children_crossing","school","warning","danger","sign","driving","yellow-diamond"];
+export const aliases = ["children crossing","children_crossing","school","warning","danger","sign","driving","yellow-diamond"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6b8";

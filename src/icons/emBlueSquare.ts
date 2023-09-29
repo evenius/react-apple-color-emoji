@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f7e6.png";
 
 export const icon = png;
 export const name = "BlueSquare";
-export const aliases = ["blue_square"];
+export const aliases = ["blue square","blue_square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f7e6";

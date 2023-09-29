@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9ab.png";
 
 export const icon = png;
 export const name = "Beaver";
-export const aliases = ["beaver","animal","rodent"];
+export const aliases = ["beaver","beaver","animal","rodent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9ab";

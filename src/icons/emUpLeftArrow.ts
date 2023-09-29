@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2196.png";
 
 export const icon = png;
 export const name = "UpLeftArrow";
-export const aliases = ["up_left_arrow","blue-square","point","direction","diagonal","northwest"];
+export const aliases = ["up-left arrow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2196";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f93d.png";
 
 export const icon = png;
 export const name = "PersonPlayingWaterPolo";
-export const aliases = ["person_playing_water_polo","sport"];
+export const aliases = ["person playing water polo","person_playing_water_polo","sport"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f93d";

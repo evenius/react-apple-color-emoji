@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f532.png";
 
 export const icon = png;
 export const name = "BlackSquareButton";
-export const aliases = ["black_square_button","shape","input","frame"];
+export const aliases = ["black square button","black_square_button","shape","input","frame"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f532";

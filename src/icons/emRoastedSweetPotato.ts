@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f360.png";
 
 export const icon = png;
 export const name = "RoastedSweetPotato";
-export const aliases = ["roasted_sweet_potato","food","nature","plant"];
+export const aliases = ["roasted sweet potato","roasted_sweet_potato","food","nature","plant"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f360";

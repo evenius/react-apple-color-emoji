@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f49d.png";
 
 export const icon = png;
 export const name = "HeartWithRibbon";
-export const aliases = ["heart_with_ribbon","love","valentines"];
+export const aliases = ["heart with ribbon","heart_with_ribbon","love","valentines"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f49d";

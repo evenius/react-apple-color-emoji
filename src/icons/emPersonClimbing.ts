@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9d7.png";
 
 export const icon = png;
 export const name = "PersonClimbing";
-export const aliases = ["person_climbing","sport"];
+export const aliases = ["person climbing","person_climbing","sport"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9d7";

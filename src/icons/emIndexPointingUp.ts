@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u261d.png";
 
 export const icon = png;
 export const name = "IndexPointingUp";
-export const aliases = ["index_pointing_up","hand","fingers","direction","up"];
+export const aliases = ["index pointing up"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u261d";

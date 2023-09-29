@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f614.png";
 
 export const icon = png;
 export const name = "PensiveFace";
-export const aliases = ["pensive_face","face","sad","depressed","upset"];
+export const aliases = ["pensive face","pensive_face","face","sad","depressed","upset"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f614";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a0.png";
 
 export const icon = png;
 export const name = "DiamondWithADot";
-export const aliases = ["diamond_with_a_dot","jewel","blue","gem","crystal","fancy"];
+export const aliases = ["diamond with a dot","diamond_with_a_dot","jewel","blue","gem","crystal","fancy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a0";

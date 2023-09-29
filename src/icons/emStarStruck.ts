@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f929.png";
 
 export const icon = png;
 export const name = "StarStruck";
-export const aliases = ["star_struck","face","smile","starry","eyes","grinning"];
+export const aliases = ["star-struck","star_struck","face","smile","starry","eyes","grinning"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f929";

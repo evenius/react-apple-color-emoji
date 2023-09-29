@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f8.png";
 
 export const icon = png;
 export const name = "CameraWithFlash";
-export const aliases = ["camera_with_flash","photography","gadgets"];
+export const aliases = ["camera with flash","camera_with_flash","photography","gadgets"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f8";

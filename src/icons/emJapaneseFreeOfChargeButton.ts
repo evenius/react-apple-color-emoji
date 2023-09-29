@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f21a.png";
 
 export const icon = png;
 export const name = "JapaneseFreeOfChargeButton";
-export const aliases = ["japanese_free_of_charge_button","nothing","chinese","kanji","japanese","orange-square"];
+export const aliases = ["Japanese “free of charge” button","japanese_free_of_charge_button","nothing","chinese","kanji","japanese","orange-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f21a";

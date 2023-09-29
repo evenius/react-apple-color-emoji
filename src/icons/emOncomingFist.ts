@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f44a.png";
 
 export const icon = png;
 export const name = "OncomingFist";
-export const aliases = ["oncoming_fist","angry","violence","fist","hit","attack","hand"];
+export const aliases = ["oncoming fist","oncoming_fist","angry","violence","fist","hit","attack","hand"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f44a";

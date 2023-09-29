@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f349.png";
 
 export const icon = png;
 export const name = "Watermelon";
-export const aliases = ["watermelon","fruit","food","picnic","summer"];
+export const aliases = ["watermelon","watermelon","fruit","food","picnic","summer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f349";

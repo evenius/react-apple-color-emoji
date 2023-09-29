@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f488.png";
 
 export const icon = png;
 export const name = "BarberPole";
-export const aliases = ["barber_pole","hair","salon","style"];
+export const aliases = ["barber pole","barber_pole","hair","salon","style"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f488";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f43e.png";
 
 export const icon = png;
 export const name = "PawPrints";
-export const aliases = ["paw_prints","animal","tracking","footprints","dog","cat","pet","feet"];
+export const aliases = ["paw prints","paw_prints","animal","tracking","footprints","dog","cat","pet","feet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f43e";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3b2.png";
 
 export const icon = png;
 export const name = "GameDie";
-export const aliases = ["game_die","dice","random","tabletop","play","luck"];
+export const aliases = ["game die","game_die","dice","random","tabletop","play","luck"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3b2";

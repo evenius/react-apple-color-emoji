@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f510.png";
 
 export const icon = png;
 export const name = "LockedWithKey";
-export const aliases = ["locked_with_key","security","privacy"];
+export const aliases = ["locked with key","locked_with_key","security","privacy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f510";

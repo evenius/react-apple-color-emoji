@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f918.png";
 
 export const icon = png;
 export const name = "SignOfTheHorns";
-export const aliases = ["sign_of_the_horns","hand","fingers","evil_eye","sign_of_horns","rock_on"];
+export const aliases = ["sign of the horns","sign_of_the_horns","hand","fingers","evil_eye","sign_of_horns","rock_on"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f918";

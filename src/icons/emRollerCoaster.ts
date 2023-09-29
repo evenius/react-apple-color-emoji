@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3a2.png";
 
 export const icon = png;
 export const name = "RollerCoaster";
-export const aliases = ["roller_coaster","carnival","playground","photo","fun"];
+export const aliases = ["roller coaster","roller_coaster","carnival","playground","photo","fun"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3a2";

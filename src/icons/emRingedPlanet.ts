@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa90.png";
 
 export const icon = png;
 export const name = "RingedPlanet";
-export const aliases = ["ringed_planet","outerspace"];
+export const aliases = ["ringed planet","ringed_planet","outerspace"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa90";

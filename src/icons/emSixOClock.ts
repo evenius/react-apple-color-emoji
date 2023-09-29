@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f555.png";
 
 export const icon = png;
 export const name = "SixOClock";
-export const aliases = ["six_o_clock","6","6:00","600","18:00","1800","time","late","early","schedule","dawn","dusk"];
+export const aliases = ["six o’clock","six_o_clock","6","6:00","600","18:00","1800","time","late","early","schedule","dawn","dusk"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f555";

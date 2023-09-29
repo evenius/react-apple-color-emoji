@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6a2.png";
 
 export const icon = png;
 export const name = "Ship";
-export const aliases = ["ship","transportation","titanic","deploy"];
+export const aliases = ["ship","ship","transportation","titanic","deploy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6a2";

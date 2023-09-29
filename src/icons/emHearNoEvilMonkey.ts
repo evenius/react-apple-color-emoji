@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f649.png";
 
 export const icon = png;
 export const name = "HearNoEvilMonkey";
-export const aliases = ["hear_no_evil_monkey","animal","monkey","nature"];
+export const aliases = ["hear-no-evil monkey","hear_no_evil_monkey","animal","monkey","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f649";

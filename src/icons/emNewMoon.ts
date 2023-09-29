@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f311.png";
 
 export const icon = png;
 export const name = "NewMoon";
-export const aliases = ["new_moon","nature","twilight","planet","space","night","evening","sleep"];
+export const aliases = ["new moon","new_moon","nature","twilight","planet","space","night","evening","sleep"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f311";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2935.png";
 
 export const icon = png;
 export const name = "RightArrowCurvingDown";
-export const aliases = ["right_arrow_curving_down","blue-square","direction","bottom"];
+export const aliases = ["right arrow curving down"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2935";

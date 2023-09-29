@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f96a.png";
 
 export const icon = png;
 export const name = "Sandwich";
-export const aliases = ["sandwich","food","lunch","bread","toast","bakery"];
+export const aliases = ["sandwich","sandwich","food","lunch","bread","toast","bakery"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f96a";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6d0.png";
 
 export const icon = png;
 export const name = "PlaceOfWorship";
-export const aliases = ["place_of_worship","religion","church","temple","prayer"];
+export const aliases = ["place of worship","place_of_worship","religion","church","temple","prayer"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6d0";

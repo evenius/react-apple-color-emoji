@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f377.png";
 
 export const icon = png;
 export const name = "WineGlass";
-export const aliases = ["wine_glass","drink","beverage","drunk","alcohol","booze"];
+export const aliases = ["wine glass","wine_glass","drink","beverage","drunk","alcohol","booze"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f377";

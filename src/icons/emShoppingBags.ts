@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6cd.png";
 
 export const icon = png;
 export const name = "ShoppingBags";
-export const aliases = ["shopping_bags","mall","buy","purchase"];
+export const aliases = ["shopping bags"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6cd";

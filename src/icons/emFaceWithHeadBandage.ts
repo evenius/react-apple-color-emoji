@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f915.png";
 
 export const icon = png;
 export const name = "FaceWithHeadBandage";
-export const aliases = ["face_with_head_bandage","injured","clumsy","bandage","hurt"];
+export const aliases = ["face with head-bandage","face_with_head_bandage","injured","clumsy","bandage","hurt"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f915";

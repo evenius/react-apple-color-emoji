@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26f0.png";
 
 export const icon = png;
 export const name = "Mountain";
-export const aliases = ["mountain","photo","nature","environment"];
+export const aliases = ["mountain"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26f0";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2b06.png";
 
 export const icon = png;
 export const name = "UpArrow";
-export const aliases = ["up_arrow","blue-square","continue","top","direction"];
+export const aliases = ["up arrow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2b06";

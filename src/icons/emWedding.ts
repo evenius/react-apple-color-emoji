@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f492.png";
 
 export const icon = png;
 export const name = "Wedding";
-export const aliases = ["wedding","love","like","affection","couple","marriage","bride","groom"];
+export const aliases = ["wedding","wedding","love","like","affection","couple","marriage","bride","groom"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f492";

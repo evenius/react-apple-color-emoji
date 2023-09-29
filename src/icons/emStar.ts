@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2b50.png";
 
 export const icon = png;
 export const name = "Star";
-export const aliases = ["star","night","yellow"];
+export const aliases = ["star","star","night","yellow"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2b50";

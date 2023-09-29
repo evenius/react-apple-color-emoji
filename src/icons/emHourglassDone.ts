@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u231b.png";
 
 export const icon = png;
 export const name = "HourglassDone";
-export const aliases = ["hourglass_done","time","clock","oldschool","limit","exam","quiz","test"];
+export const aliases = ["hourglass done","hourglass_done","time","clock","oldschool","limit","exam","quiz","test"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u231b";

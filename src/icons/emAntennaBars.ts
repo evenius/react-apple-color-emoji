@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f6.png";
 
 export const icon = png;
 export const name = "AntennaBars";
-export const aliases = ["antenna_bars","blue-square","reception","phone","internet","connection","wifi","bluetooth","bars"];
+export const aliases = ["antenna bars","antenna_bars","blue-square","reception","phone","internet","connection","wifi","bluetooth","bars"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f6";

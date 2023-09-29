@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f51e.png";
 
 export const icon = png;
 export const name = "NoOneUnderEighteen";
-export const aliases = ["no_one_under_eighteen","18","drink","pub","night","minor","circle"];
+export const aliases = ["no one under eighteen","no_one_under_eighteen","18","drink","pub","night","minor","circle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f51e";

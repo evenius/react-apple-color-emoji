@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f688.png";
 
 export const icon = png;
 export const name = "LightRail";
-export const aliases = ["light_rail","transportation","vehicle"];
+export const aliases = ["light rail","light_rail","transportation","vehicle"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f688";

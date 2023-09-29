@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5c4.png";
 
 export const icon = png;
 export const name = "FileCabinet";
-export const aliases = ["file_cabinet","filing","organizing"];
+export const aliases = ["file cabinet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5c4";

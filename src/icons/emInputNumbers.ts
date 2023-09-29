@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f522.png";
 
 export const icon = png;
 export const name = "InputNumbers";
-export const aliases = ["input_numbers","numbers","blue-square","1234","1","2","3","4"];
+export const aliases = ["input numbers","input_numbers","numbers","blue-square","1234","1","2","3","4"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f522";

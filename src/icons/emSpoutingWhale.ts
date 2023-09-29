@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f433.png";
 
 export const icon = png;
 export const name = "SpoutingWhale";
-export const aliases = ["spouting_whale","animal","nature","sea","ocean"];
+export const aliases = ["spouting whale","spouting_whale","animal","nature","sea","ocean"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f433";

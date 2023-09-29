@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f97d.png";
 
 export const icon = png;
 export const name = "Goggles";
-export const aliases = ["goggles","eyes","protection","safety"];
+export const aliases = ["goggles","goggles","eyes","protection","safety"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f97d";

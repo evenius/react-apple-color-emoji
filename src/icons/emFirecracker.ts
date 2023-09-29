@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9e8.png";
 
 export const icon = png;
 export const name = "Firecracker";
-export const aliases = ["firecracker","dynamite","boom","explode","explosion","explosive"];
+export const aliases = ["firecracker","firecracker","dynamite","boom","explode","explosion","explosive"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9e8";

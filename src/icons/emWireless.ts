@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6dc.png";
 
 export const icon = png;
 export const name = "Wireless";
-export const aliases = ["wireless","wifi","internet","contactless","signal"];
+export const aliases = ["wireless","wireless","wifi","internet","contactless","signal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6dc";

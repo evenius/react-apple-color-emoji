@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2714.png";
 
 export const icon = png;
 export const name = "CheckMark";
-export const aliases = ["check_mark","ok","nike","answer","yes","tick"];
+export const aliases = ["check mark"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2714";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f308.png";
 
 export const icon = png;
 export const name = "Rainbow";
-export const aliases = ["rainbow","nature","happy","unicorn_face","photo","sky","spring"];
+export const aliases = ["rainbow","rainbow","nature","happy","unicorn_face","photo","sky","spring"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f308";

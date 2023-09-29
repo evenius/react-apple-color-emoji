@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5f3.png";
 
 export const icon = png;
 export const name = "BallotBoxWithBallot";
-export const aliases = ["ballot_box_with_ballot","election","vote"];
+export const aliases = ["ballot box with ballot"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5f3";

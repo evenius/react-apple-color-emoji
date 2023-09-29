@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f96d.png";
 
 export const icon = png;
 export const name = "Mango";
-export const aliases = ["mango","fruit","food","tropical"];
+export const aliases = ["mango","mango","fruit","food","tropical"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f96d";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f376.png";
 
 export const icon = png;
 export const name = "Sake";
-export const aliases = ["sake","wine","drink","drunk","beverage","japanese","alcohol","booze"];
+export const aliases = ["sake","sake","wine","drink","drunk","beverage","japanese","alcohol","booze"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f376";

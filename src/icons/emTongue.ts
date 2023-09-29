@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f445.png";
 
 export const icon = png;
 export const name = "Tongue";
-export const aliases = ["tongue","mouth","playful"];
+export const aliases = ["tongue","tongue","mouth","playful"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f445";

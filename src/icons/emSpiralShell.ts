@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f41a.png";
 
 export const icon = png;
 export const name = "SpiralShell";
-export const aliases = ["spiral_shell","nature","sea","beach"];
+export const aliases = ["spiral shell","spiral_shell","nature","sea","beach"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f41a";

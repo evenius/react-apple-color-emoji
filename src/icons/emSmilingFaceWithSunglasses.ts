@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f60e.png";
 
 export const icon = png;
 export const name = "SmilingFaceWithSunglasses";
-export const aliases = ["smiling_face_with_sunglasses","face","cool","smile","summer","beach","sunglass"];
+export const aliases = ["smiling face with sunglasses","smiling_face_with_sunglasses","face","cool","smile","summer","beach","sunglass"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f60e";

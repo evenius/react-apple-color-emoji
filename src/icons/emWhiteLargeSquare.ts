@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2b1c.png";
 
 export const icon = png;
 export const name = "WhiteLargeSquare";
-export const aliases = ["white_large_square","shape","icon","stone","button"];
+export const aliases = ["white large square","white_large_square","shape","icon","stone","button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2b1c";

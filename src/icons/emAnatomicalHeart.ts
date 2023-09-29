@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fac0.png";
 
 export const icon = png;
 export const name = "AnatomicalHeart";
-export const aliases = ["anatomical heart","health","heartbeat"];
+export const aliases = ["anatomical heart","anatomical heart","health","heartbeat"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fac0";

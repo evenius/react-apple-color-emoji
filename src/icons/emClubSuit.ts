@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2663.png";
 
 export const icon = png;
 export const name = "ClubSuit";
-export const aliases = ["club_suit","poker","cards","magic","suits"];
+export const aliases = ["club suit"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2663";

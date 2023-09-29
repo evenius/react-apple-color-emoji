@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f94f.png";
 
 export const icon = png;
 export const name = "FlyingDisc";
-export const aliases = ["flying_disc","sports","frisbee","ultimate"];
+export const aliases = ["flying disc","flying_disc","sports","frisbee","ultimate"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f94f";

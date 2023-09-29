@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u260e.png";
 
 export const icon = png;
 export const name = "Telephone";
-export const aliases = ["telephone","technology","communication","dial","telephone"];
+export const aliases = ["telephone"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u260e";

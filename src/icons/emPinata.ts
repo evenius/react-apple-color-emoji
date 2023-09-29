@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa85.png";
 
 export const icon = png;
 export const name = "Pinata";
-export const aliases = ["pinata","mexico","candy","celebration"];
+export const aliases = ["pinata","pinata","mexico","candy","celebration"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa85";

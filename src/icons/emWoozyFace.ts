@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f974.png";
 
 export const icon = png;
 export const name = "WoozyFace";
-export const aliases = ["woozy_face","face","dizzy","intoxicated","tipsy","wavy"];
+export const aliases = ["woozy face","woozy_face","face","dizzy","intoxicated","tipsy","wavy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f974";

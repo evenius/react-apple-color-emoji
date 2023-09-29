@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4e3.png";
 
 export const icon = png;
 export const name = "Megaphone";
-export const aliases = ["megaphone","sound","speaker","volume"];
+export const aliases = ["megaphone","megaphone","sound","speaker","volume"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4e3";

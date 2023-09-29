@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f333.png";
 
 export const icon = png;
 export const name = "DeciduousTree";
-export const aliases = ["deciduous_tree","plant","nature"];
+export const aliases = ["deciduous tree","deciduous_tree","plant","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f333";

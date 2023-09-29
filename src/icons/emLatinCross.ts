@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u271d.png";
 
 export const icon = png;
 export const name = "LatinCross";
-export const aliases = ["latin_cross","christianity"];
+export const aliases = ["latin cross"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u271d";

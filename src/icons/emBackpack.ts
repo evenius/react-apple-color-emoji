@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f392.png";
 
 export const icon = png;
 export const name = "Backpack";
-export const aliases = ["backpack","student","education","bag","backpack"];
+export const aliases = ["backpack","backpack","student","education","bag","backpack"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f392";

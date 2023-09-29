@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4b7.png";
 
 export const icon = png;
 export const name = "PoundBanknote";
-export const aliases = ["pound_banknote","british","sterling","money","sales","bills","uk","england","currency"];
+export const aliases = ["pound banknote","pound_banknote","british","sterling","money","sales","bills","uk","england","currency"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4b7";

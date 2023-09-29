@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f441.png";
 
 export const icon = png;
 export const name = "Eye";
-export const aliases = ["eye","face","look","see","watch","stare"];
+export const aliases = ["eye"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f441";

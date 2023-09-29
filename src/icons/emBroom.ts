@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9f9.png";
 
 export const icon = png;
 export const name = "Broom";
-export const aliases = ["broom","cleaning","sweeping","witch"];
+export const aliases = ["broom","broom","cleaning","sweeping","witch"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9f9";

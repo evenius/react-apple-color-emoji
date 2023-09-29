@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9df.png";
 
 export const icon = png;
 export const name = "Zombie";
-export const aliases = ["zombie","dead"];
+export const aliases = ["zombie","zombie","dead"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9df";

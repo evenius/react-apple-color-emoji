@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5de.png";
 
 export const icon = png;
 export const name = "RolledUpNewspaper";
-export const aliases = ["rolled_up_newspaper","press","headline"];
+export const aliases = ["rolled-up newspaper"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5de";

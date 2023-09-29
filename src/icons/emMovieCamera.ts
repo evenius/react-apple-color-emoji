@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3a5.png";
 
 export const icon = png;
 export const name = "MovieCamera";
-export const aliases = ["movie_camera","film","record"];
+export const aliases = ["movie camera","movie_camera","film","record"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3a5";

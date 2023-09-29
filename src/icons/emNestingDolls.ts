@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa86.png";
 
 export const icon = png;
 export const name = "NestingDolls";
-export const aliases = ["nesting dolls","matryoshka","toy"];
+export const aliases = ["nesting dolls","nesting dolls","matryoshka","toy"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa86";

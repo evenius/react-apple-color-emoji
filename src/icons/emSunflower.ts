@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f33b.png";
 
 export const icon = png;
 export const name = "Sunflower";
-export const aliases = ["sunflower","nature","plant","fall"];
+export const aliases = ["sunflower","sunflower","nature","plant","fall"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f33b";

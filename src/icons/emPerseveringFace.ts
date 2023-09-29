@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f623.png";
 
 export const icon = png;
 export const name = "PerseveringFace";
-export const aliases = ["persevering_face","face","sick","no","upset","oops"];
+export const aliases = ["persevering face","persevering_face","face","sick","no","upset","oops"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f623";

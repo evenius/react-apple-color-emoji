@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4a1.png";
 
 export const icon = png;
 export const name = "LightBulb";
-export const aliases = ["light_bulb","light","electricity","idea"];
+export const aliases = ["light bulb","light_bulb","light","electricity","idea"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4a1";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fab9.png";
 
 export const icon = png;
 export const name = "EmptyNest";
-export const aliases = ["empty nest","bird"];
+export const aliases = ["empty nest","empty nest","bird"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fab9";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u270f.png";
 
 export const icon = png;
 export const name = "Pencil";
-export const aliases = ["pencil","stationery","write","paper","writing","school","study"];
+export const aliases = ["pencil"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u270f";

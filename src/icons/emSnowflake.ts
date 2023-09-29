@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2744.png";
 
 export const icon = png;
 export const name = "Snowflake";
-export const aliases = ["snowflake","winter","season","cold","weather","christmas","xmas"];
+export const aliases = ["snowflake"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2744";

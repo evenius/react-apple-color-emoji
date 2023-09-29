@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f345.png";
 
 export const icon = png;
 export const name = "Tomato";
-export const aliases = ["tomato","fruit","vegetable","nature","food"];
+export const aliases = ["tomato","tomato","fruit","vegetable","nature","food"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f345";

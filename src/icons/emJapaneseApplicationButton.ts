@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f238.png";
 
 export const icon = png;
 export const name = "JapaneseApplicationButton";
-export const aliases = ["japanese_application_button","chinese","japanese","kanji","orange-square"];
+export const aliases = ["Japanese “application” button","japanese_application_button","chinese","japanese","kanji","orange-square"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f238";

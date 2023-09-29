@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f17f.png";
 
 export const icon = png;
 export const name = "PButton";
-export const aliases = ["p_button","cars","blue-square","alphabet","letter"];
+export const aliases = ["P button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f17f";

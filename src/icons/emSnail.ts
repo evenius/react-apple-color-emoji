@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f40c.png";
 
 export const icon = png;
 export const name = "Snail";
-export const aliases = ["snail","slow","animal","shell"];
+export const aliases = ["snail","snail","slow","animal","shell"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f40c";

@@ -8,7 +8,7 @@ export interface AppleIconDefinition {
   width: number;
   height: number;
   unicode: string;
-}// import type { AppleIconDefinition } from './emojis.js';
+}
 
 // Todo support passing a string, without being too slow?
 export type EmojiProps = { icon: AppleIconDefinition, inline?: boolean } &  Omit<React.DetailedHTMLProps<React.ImgHTMLAttributes<HTMLImageElement>, HTMLImageElement>, 'src'>

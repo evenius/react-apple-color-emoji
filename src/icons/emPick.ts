@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26cf.png";
 
 export const icon = png;
 export const name = "Pick";
-export const aliases = ["pick","tools","dig"];
+export const aliases = ["pick"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26cf";

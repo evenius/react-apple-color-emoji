@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fae4.png";
 
 export const icon = png;
 export const name = "FaceWithDiagonalMouth";
-export const aliases = ["face with diagonal mouth","skeptic","confuse","frustrated","indifferent"];
+export const aliases = ["face with diagonal mouth","face with diagonal mouth","skeptic","confuse","frustrated","indifferent"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fae4";

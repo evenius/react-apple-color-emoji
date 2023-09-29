@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f30d.png";
 
 export const icon = png;
 export const name = "GlobeShowingEuropeAfrica";
-export const aliases = ["globe_showing_europe_africa","globe","world","international"];
+export const aliases = ["globe showing Europe-Africa","globe_showing_europe_africa","globe","world","international"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f30d";

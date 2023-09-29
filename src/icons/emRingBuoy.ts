@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f6df.png";
 
 export const icon = png;
 export const name = "RingBuoy";
-export const aliases = ["ring buoy","life saver","life preserver"];
+export const aliases = ["ring buoy","ring buoy","life saver","life preserver"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f6df";

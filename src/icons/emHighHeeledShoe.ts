@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f460.png";
 
 export const icon = png;
 export const name = "HighHeeledShoe";
-export const aliases = ["high_heeled_shoe","fashion","shoes","female","pumps","stiletto"];
+export const aliases = ["high-heeled shoe","high_heeled_shoe","fashion","shoes","female","pumps","stiletto"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f460";

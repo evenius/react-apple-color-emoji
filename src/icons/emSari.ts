@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f97b.png";
 
 export const icon = png;
 export const name = "Sari";
-export const aliases = ["sari","dress"];
+export const aliases = ["sari","sari","dress"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f97b";

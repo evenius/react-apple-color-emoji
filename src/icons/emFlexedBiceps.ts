@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4aa.png";
 
 export const icon = png;
 export const name = "FlexedBiceps";
-export const aliases = ["flexed_biceps","arm","flex","hand","summer","strong","biceps"];
+export const aliases = ["flexed biceps","flexed_biceps","arm","flex","hand","summer","strong","biceps"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4aa";

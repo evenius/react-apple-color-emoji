@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2692.png";
 
 export const icon = png;
 export const name = "HammerAndPick";
-export const aliases = ["hammer_and_pick","tools","build","create"];
+export const aliases = ["hammer and pick"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2692";

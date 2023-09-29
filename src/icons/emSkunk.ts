@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9a8.png";
 
 export const icon = png;
 export const name = "Skunk";
-export const aliases = ["skunk","animal"];
+export const aliases = ["skunk","skunk","animal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9a8";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f610.png";
 
 export const icon = png;
 export const name = "NeutralFace";
-export const aliases = ["neutral_face","indifference","meh",":|","neutral"];
+export const aliases = ["neutral face","neutral_face","indifference","meh",":|","neutral"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f610";

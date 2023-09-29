@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f34a.png";
 
 export const icon = png;
 export const name = "Tangerine";
-export const aliases = ["tangerine","food","fruit","nature","orange"];
+export const aliases = ["tangerine","tangerine","food","fruit","nature","orange"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f34a";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f329.png";
 
 export const icon = png;
 export const name = "CloudWithLightning";
-export const aliases = ["cloud_with_lightning","weather","thunder"];
+export const aliases = ["cloud with lightning"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f329";

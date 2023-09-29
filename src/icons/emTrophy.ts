@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3c6.png";
 
 export const icon = png;
 export const name = "Trophy";
-export const aliases = ["trophy","win","award","contest","place","ftw","ceremony"];
+export const aliases = ["trophy","trophy","win","award","contest","place","ftw","ceremony"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3c6";

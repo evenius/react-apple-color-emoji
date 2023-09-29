@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f410.png";
 
 export const icon = png;
 export const name = "Goat";
-export const aliases = ["goat","animal","nature"];
+export const aliases = ["goat","goat","animal","nature"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f410";

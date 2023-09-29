@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2668.png";
 
 export const icon = png;
 export const name = "HotSprings";
-export const aliases = ["hot_springs","bath","warm","relax"];
+export const aliases = ["hot springs"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2668";

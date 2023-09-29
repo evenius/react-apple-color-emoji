@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f5dc.png";
 
 export const icon = png;
 export const name = "Clamp";
-export const aliases = ["clamp","tool"];
+export const aliases = ["clamp"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f5dc";

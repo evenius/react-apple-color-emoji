@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fab3.png";
 
 export const icon = png;
 export const name = "Cockroach";
-export const aliases = ["cockroach","insect","pests"];
+export const aliases = ["cockroach","cockroach","insect","pests"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fab3";

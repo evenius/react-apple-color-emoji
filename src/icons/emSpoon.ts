@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f944.png";
 
 export const icon = png;
 export const name = "Spoon";
-export const aliases = ["spoon","cutlery","kitchen","tableware"];
+export const aliases = ["spoon","spoon","cutlery","kitchen","tableware"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f944";

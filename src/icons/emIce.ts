@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9ca.png";
 
 export const icon = png;
 export const name = "Ice";
-export const aliases = ["ice","water","cold"];
+export const aliases = ["ice","ice","water","cold"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9ca";

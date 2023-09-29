@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f68b.png";
 
 export const icon = png;
 export const name = "TramCar";
-export const aliases = ["tram_car","transportation","vehicle","carriage","public","travel"];
+export const aliases = ["tram car","tram_car","transportation","vehicle","carriage","public","travel"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f68b";

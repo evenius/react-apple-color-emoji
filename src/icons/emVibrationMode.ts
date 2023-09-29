@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4f3.png";
 
 export const icon = png;
 export const name = "VibrationMode";
-export const aliases = ["vibration_mode","orange-square","phone"];
+export const aliases = ["vibration mode","vibration_mode","orange-square","phone"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4f3";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u303d.png";
 
 export const icon = png;
 export const name = "PartAlternationMark";
-export const aliases = ["part_alternation_mark","graph","presentation","stats","business","economics","bad"];
+export const aliases = ["part alternation mark"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u303d";

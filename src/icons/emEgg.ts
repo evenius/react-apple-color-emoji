@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f95a.png";
 
 export const icon = png;
 export const name = "Egg";
-export const aliases = ["egg","food","chicken","breakfast"];
+export const aliases = ["egg","egg","food","chicken","breakfast"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f95a";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u2705.png";
 
 export const icon = png;
 export const name = "CheckMarkButton";
-export const aliases = ["check_mark_button","green-square","ok","agree","vote","election","answer","tick"];
+export const aliases = ["check mark button","check_mark_button","green-square","ok","agree","vote","election","answer","tick"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u2705";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u25b6.png";
 
 export const icon = png;
 export const name = "PlayButton";
-export const aliases = ["play_button","blue-square","right","direction","play"];
+export const aliases = ["play button"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u25b6";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f638.png";
 
 export const icon = png;
 export const name = "GrinningCatWithSmilingEyes";
-export const aliases = ["grinning_cat_with_smiling_eyes","animal","cats","smile"];
+export const aliases = ["grinning cat with smiling eyes","grinning_cat_with_smiling_eyes","animal","cats","smile"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f638";

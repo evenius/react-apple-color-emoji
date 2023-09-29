@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa87.png";
 
 export const icon = png;
 export const name = "Maracas";
-export const aliases = ["maracas","music","instrument","percussion"];
+export const aliases = ["maracas","maracas","music","instrument","percussion"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa87";

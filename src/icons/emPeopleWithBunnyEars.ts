@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f46f.png";
 
 export const icon = png;
 export const name = "PeopleWithBunnyEars";
-export const aliases = ["people_with_bunny_ears","perform","costume"];
+export const aliases = ["people with bunny ears","people_with_bunny_ears","perform","costume"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f46f";

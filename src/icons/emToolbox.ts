@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9f0.png";
 
 export const icon = png;
 export const name = "Toolbox";
-export const aliases = ["toolbox","tools","diy","fix","maintainer","mechanic"];
+export const aliases = ["toolbox","toolbox","tools","diy","fix","maintainer","mechanic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9f0";

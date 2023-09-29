@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa84.png";
 
 export const icon = png;
 export const name = "MagicWand";
-export const aliases = ["magic wand","supernature","power"];
+export const aliases = ["magic wand","magic wand","supernature","power"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa84";

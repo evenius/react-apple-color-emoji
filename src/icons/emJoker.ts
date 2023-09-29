@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f0cf.png";
 
 export const icon = png;
 export const name = "Joker";
-export const aliases = ["joker","poker","cards","game","play","magic"];
+export const aliases = ["joker","joker","poker","cards","game","play","magic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f0cf";

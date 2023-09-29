@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f96e.png";
 
 export const icon = png;
 export const name = "MoonCake";
-export const aliases = ["moon_cake","food","autumn","dessert"];
+export const aliases = ["moon cake","moon_cake","food","autumn","dessert"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f96e";

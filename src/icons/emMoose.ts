@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1face.png";
 
 export const icon = png;
 export const name = "Moose";
-export const aliases = ["moose","shrek","canada","sweden","sven","cool"];
+export const aliases = ["moose","moose","shrek","canada","sweden","sven","cool"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1face";

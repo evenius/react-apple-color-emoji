@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f390.png";
 
 export const icon = png;
 export const name = "WindChime";
-export const aliases = ["wind_chime","nature","ding","spring","bell"];
+export const aliases = ["wind chime","wind_chime","nature","ding","spring","bell"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f390";

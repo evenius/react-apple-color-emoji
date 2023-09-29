@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f30f.png";
 
 export const icon = png;
 export const name = "GlobeShowingAsiaAustralia";
-export const aliases = ["globe_showing_asia_australia","globe","world","east","international"];
+export const aliases = ["globe showing Asia-Australia","globe_showing_asia_australia","globe","world","east","international"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f30f";

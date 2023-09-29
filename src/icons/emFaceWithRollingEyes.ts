@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f644.png";
 
 export const icon = png;
 export const name = "FaceWithRollingEyes";
-export const aliases = ["face_with_rolling_eyes","face","eyeroll","frustrated"];
+export const aliases = ["face with rolling eyes","face_with_rolling_eyes","face","eyeroll","frustrated"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f644";

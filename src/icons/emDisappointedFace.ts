@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f61e.png";
 
 export const icon = png;
 export const name = "DisappointedFace";
-export const aliases = ["disappointed_face","face","sad","upset","depressed",":("];
+export const aliases = ["disappointed face","disappointed_face","face","sad","upset","depressed",":("];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f61e";

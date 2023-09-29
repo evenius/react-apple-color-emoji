@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f4bc.png";
 
 export const icon = png;
 export const name = "Briefcase";
-export const aliases = ["briefcase","business","documents","work","law","legal","job","career"];
+export const aliases = ["briefcase","briefcase","business","documents","work","law","legal","job","career"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f4bc";

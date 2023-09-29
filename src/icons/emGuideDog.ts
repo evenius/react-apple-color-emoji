@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9ae.png";
 
 export const icon = png;
 export const name = "GuideDog";
-export const aliases = ["guide_dog","animal","blind"];
+export const aliases = ["guide dog","guide_dog","animal","blind"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9ae";

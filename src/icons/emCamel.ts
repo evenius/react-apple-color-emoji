@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f42a.png";
 
 export const icon = png;
 export const name = "Camel";
-export const aliases = ["camel","animal","hot","desert","hump"];
+export const aliases = ["camel","camel","animal","hot","desert","hump"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f42a";

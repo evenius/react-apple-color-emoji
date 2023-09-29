@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f361.png";
 
 export const icon = png;
 export const name = "Dango";
-export const aliases = ["dango","food","dessert","sweet","japanese","barbecue","meat"];
+export const aliases = ["dango","dango","food","dessert","sweet","japanese","barbecue","meat"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f361";

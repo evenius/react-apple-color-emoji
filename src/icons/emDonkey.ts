@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1facf.png";
 
 export const icon = png;
 export const name = "Donkey";
-export const aliases = ["donkey","eeyore","mule"];
+export const aliases = ["donkey","donkey","eeyore","mule"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1facf";

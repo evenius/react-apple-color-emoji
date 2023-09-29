@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f371.png";
 
 export const icon = png;
 export const name = "BentoBox";
-export const aliases = ["bento_box","food","japanese","box","lunch"];
+export const aliases = ["bento box","bento_box","food","japanese","box","lunch"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f371";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f40b.png";
 
 export const icon = png;
 export const name = "Whale";
-export const aliases = ["whale","animal","nature","sea","ocean"];
+export const aliases = ["whale","whale","animal","nature","sea","ocean"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f40b";

@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f3bb.png";
 
 export const icon = png;
 export const name = "Violin";
-export const aliases = ["violin","music","instrument","orchestra","symphony"];
+export const aliases = ["violin","violin","music","instrument","orchestra","symphony"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f3bb";

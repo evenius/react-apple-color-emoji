@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u274e.png";
 
 export const icon = png;
 export const name = "CrossMarkButton";
-export const aliases = ["cross_mark_button","x","green-square","no","deny"];
+export const aliases = ["cross mark button","cross_mark_button","x","green-square","no","deny"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u274e";

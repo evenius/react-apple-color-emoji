@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f980.png";
 
 export const icon = png;
 export const name = "Crab";
-export const aliases = ["crab","animal","crustacean"];
+export const aliases = ["crab","crab","animal","crustacean"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f980";

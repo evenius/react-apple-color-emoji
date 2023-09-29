@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa92.png";
 
 export const icon = png;
 export const name = "Razor";
-export const aliases = ["razor","cut"];
+export const aliases = ["razor","razor","cut"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa92";

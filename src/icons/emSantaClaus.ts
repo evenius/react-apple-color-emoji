@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f385.png";
 
 export const icon = png;
 export const name = "SantaClaus";
-export const aliases = ["santa_claus","festival","man","male","xmas","father christmas"];
+export const aliases = ["Santa Claus","santa_claus","festival","man","male","xmas","father christmas"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f385";

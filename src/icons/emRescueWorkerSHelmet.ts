@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u26d1.png";
 
 export const icon = png;
 export const name = "RescueWorkerSHelmet";
-export const aliases = ["rescue_worker_s_helmet","construction","build"];
+export const aliases = ["rescue worker’s helmet"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u26d1";

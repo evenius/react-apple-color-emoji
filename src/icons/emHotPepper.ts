@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f336.png";
 
 export const icon = png;
 export const name = "HotPepper";
-export const aliases = ["hot_pepper","food","spicy","chilli","chili"];
+export const aliases = ["hot pepper"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f336";

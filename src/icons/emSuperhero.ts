@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9b8.png";
 
 export const icon = png;
 export const name = "Superhero";
-export const aliases = ["superhero","marvel"];
+export const aliases = ["superhero","superhero","marvel"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9b8";

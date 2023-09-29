@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f52a.png";
 
 export const icon = png;
 export const name = "KitchenKnife";
-export const aliases = ["kitchen_knife","knife","blade","cutlery","kitchen","weapon"];
+export const aliases = ["kitchen knife","kitchen_knife","knife","blade","cutlery","kitchen","weapon"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f52a";

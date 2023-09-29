@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u264a.png";
 
 export const icon = png;
 export const name = "Gemini";
-export const aliases = ["gemini","sign","zodiac","purple-square","astrology"];
+export const aliases = ["Gemini","gemini","sign","zodiac","purple-square","astrology"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u264a";

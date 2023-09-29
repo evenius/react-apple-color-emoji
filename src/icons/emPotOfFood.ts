@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f372.png";
 
 export const icon = png;
 export const name = "PotOfFood";
-export const aliases = ["pot_of_food","food","meat","soup","hot pot"];
+export const aliases = ["pot of food","pot_of_food","food","meat","soup","hot pot"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f372";

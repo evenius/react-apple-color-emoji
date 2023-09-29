@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f90f.png";
 
 export const icon = png;
 export const name = "PinchingHand";
-export const aliases = ["pinching_hand","tiny","small","size"];
+export const aliases = ["pinching hand","pinching_hand","tiny","small","size"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f90f";

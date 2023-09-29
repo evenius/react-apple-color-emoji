@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f559.png";
 
 export const icon = png;
 export const name = "TenOClock";
-export const aliases = ["ten_o_clock","10","10:00","1000","22:00","2200","time","late","early","schedule"];
+export const aliases = ["ten o’clock","ten_o_clock","10","10:00","1000","22:00","2200","time","late","early","schedule"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f559";

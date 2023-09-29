@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f636.png";
 
 export const icon = png;
 export const name = "FaceWithoutMouth";
-export const aliases = ["face_without_mouth","face","hellokitty"];
+export const aliases = ["face without mouth","face_without_mouth","face","hellokitty"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f636";

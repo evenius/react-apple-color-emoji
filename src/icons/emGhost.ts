@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f47b.png";
 
 export const icon = png;
 export const name = "Ghost";
-export const aliases = ["ghost","halloween","spooky","scary"];
+export const aliases = ["ghost","ghost","halloween","spooky","scary"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f47b";

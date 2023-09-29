@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1fa81.png";
 
 export const icon = png;
 export const name = "Kite";
-export const aliases = ["kite","wind","fly"];
+export const aliases = ["kite","kite","wind","fly"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1fa81";

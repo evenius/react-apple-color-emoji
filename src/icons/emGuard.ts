@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f482.png";
 
 export const icon = png;
 export const name = "Guard";
-export const aliases = ["guard","protect"];
+export const aliases = ["guard","guard","protect"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f482";

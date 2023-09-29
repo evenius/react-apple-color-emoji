@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1faf3.png";
 
 export const icon = png;
 export const name = "PalmDownHand";
-export const aliases = ["palm down hand","palm","drop"];
+export const aliases = ["palm down hand","palm down hand","palm","drop"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1faf3";

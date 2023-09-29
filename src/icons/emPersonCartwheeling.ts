@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f938.png";
 
 export const icon = png;
 export const name = "PersonCartwheeling";
-export const aliases = ["person_cartwheeling","sport","gymnastic"];
+export const aliases = ["person cartwheeling","person_cartwheeling","sport","gymnastic"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f938";

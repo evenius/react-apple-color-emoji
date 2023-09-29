@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9a7.png";
 
 export const icon = png;
 export const name = "Orangutan";
-export const aliases = ["orangutan","animal"];
+export const aliases = ["orangutan","orangutan","animal"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9a7";

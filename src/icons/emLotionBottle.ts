@@ -5,7 +5,7 @@ import png from "../png/160/emoji_u1f9f4.png";
 
 export const icon = png;
 export const name = "LotionBottle";
-export const aliases = ["lotion_bottle","moisturizer","sunscreen"];
+export const aliases = ["lotion bottle","lotion_bottle","moisturizer","sunscreen"];
 export const width = 160;
 export const height = 160;
 export const unicode = "u1f9f4";
