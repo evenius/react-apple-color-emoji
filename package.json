@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "files": [
-    "png/160/*.png",
+    "webp/*.webp",
     "/icon",
     "/*.js",
     "/*.d.ts"
