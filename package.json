@@ -5,13 +5,15 @@
   "main": "index.js",
   "files": [
     "png/160/*.png",
-    "/icons",
+    "/icon",
     "/*.js",
     "/*.d.ts"
   ],
   "scripts": {
-    "build:types": "rm src/icons/*.ts 2> /dev/null; ts-node ./script/buildTypes",
-    "build": "tsc && rm -rf icons && mv dist/* .",
+    "build:all": "npm run build:types && npm run build:web && npm run build",
+    "build:webp": "rm webp/*.webp 2> /dev/null; ts-node ./script/convertToWebp",
+    "build:types": "rm src/icon/*.ts 2> /dev/null; 2> /dev/null; ts-node ./script/buildTypes",
+    "build": "tsc && rm -rf icon && mv dist/* .",
     "test": "ts-node script/test.ts"
   },
   "type": "module",
@@ -28,6 +30,7 @@
   },
   "dependencies": {
     "@emotion/styled": "^11.11.0",
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "sharp": "^0.32.6"
   }
 }

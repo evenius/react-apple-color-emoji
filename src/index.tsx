@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 
 export interface AppleIconDefinition {
-  icon: string;
+  icon: Promise<typeof import("*.webp")> | string;
   name: string;
   aliases: string[];
   width: number;
@@ -21,7 +21,18 @@ const EmojiImage = styled.img<{ inline?: boolean }>`
 `;
 
 function Emoji({ icon, inline, ...props }: EmojiProps) {
-  return <EmojiImage src={icon.icon} height={icon.height} width={icon.width} alt={icon.aliases[0]} {...props} />
+  let src = React.useRef('')
+  React.useEffect(() => {
+    if(typeof icon.icon === 'string') {
+      src.current = icon.icon
+      return
+    } else {
+      icon.icon.then((url) => {
+        src.current = url as unknown as string
+      })
+    }
+  }, [ icon.icon ])
+  return <EmojiImage src={src.current} height={icon.height} width={icon.width} alt={icon.aliases[0]} {...props} />
 }
 
 const memoji = React.memo(Emoji)
